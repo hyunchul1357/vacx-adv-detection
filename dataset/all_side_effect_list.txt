@@ -1,0 +1,5593 @@
+Pyrexia
+Headache
+Injection site erythema
+Pain
+Injection site pain
+Fatigue
+Chills
+Rash
+Injection site swelling
+Nausea
+Pain in extremity
+Dizziness
+Erythema
+No adverse event
+Pruritus
+Vomiting
+Urticaria
+Injection site warmth
+Myalgia
+Arthralgia
+Dyspnoea
+Asthenia
+Diarrhoea
+Malaise
+Injection site oedema
+Swelling
+Injection site pruritus
+Paraesthesia
+Cough
+Syncope
+Hyperhidrosis
+Injection site induration
+Skin warm
+Crying
+Hypoaesthesia
+Incorrect product storage
+Injection site hypersensitivity
+Tremor
+Peripheral swelling
+Feeling hot
+Lymphadenopathy
+Pallor
+Injection site rash
+Rash erythematous
+Herpes zoster
+Convulsion
+Agitation
+Injection site reaction
+Feeling abnormal
+Oedema peripheral
+Chest pain
+Product storage error
+Injection site mass
+Screaming
+Irritability
+Loss of consciousness
+Cellulitis
+Decreased appetite
+Back pain
+Somnolence
+Body temperature increased
+Infection
+COVID-19
+Neck pain
+Influenza like illness
+Tenderness
+Blood test
+Drug ineffective
+Vasodilatation
+Condition aggravated
+Chest discomfort
+Lethargy
+Insomnia
+Immediate post-injection reaction
+Heart rate increased
+Rash pruritic
+Mobility decreased
+Musculoskeletal stiffness
+Oropharyngeal pain
+Hypersensitivity
+Palpitations
+Abdominal pain
+Unevaluable event
+SARS-CoV-2 test positive
+Muscular weakness
+Tinnitus
+Oedema
+Vaccination site pain
+Rash maculo-papular
+Gait disturbance
+Fall
+Flushing
+Rash macular
+Swelling face
+Blister
+Abdominal pain upper
+Full blood count
+Product administered to patient of inappropriate age
+Inappropriate schedule of drug administration
+Rhinorrhoea
+Expired product administered
+Muscle spasms
+Rash papular
+Hypotonia
+Electrocardiogram
+SARS-CoV-2 test
+Sleep disorder
+Rash vesicular
+Rash generalised
+Injected limb mobility decreased
+Laboratory test
+Anxiety
+Wrong drug administered
+Burning sensation
+Migraine
+Death
+Throat tightness
+Vision blurred
+Feeling cold
+Febrile convulsion
+Unresponsive to stimuli
+Induration
+Vertigo
+Computerised tomogram
+Contusion
+Wheezing
+Hypokinesia
+Extra dose administered
+Tachycardia
+Cyanosis
+Anorexia
+Inappropriate schedule of product administration
+Lip swelling
+Seizure
+Body temperature
+Dermatitis bullous
+Hypertension
+Nasal congestion
+Local reaction
+Abdominal discomfort
+Dysphagia
+Musculoskeletal pain
+Discomfort
+Full blood count normal
+Throat irritation
+SARS-CoV-2 test negative
+Injection site urticaria
+Confusional state
+Paraesthesia oral
+Muscle twitching
+Blood pressure increased
+Incorrect dose administered
+Vaccination complication
+Skin discolouration
+Metabolic function test
+Incorrect storage of drug
+Viral infection
+Chest X-ray
+Laboratory test abnormal
+Influenza
+Stupor
+Cold sweat
+Dyskinesia
+Eye swelling
+Hypotension
+Vaccination site swelling
+Electrocardiogram normal
+Vaccination site erythema
+Impaired work ability
+Exposure during pregnancy
+Pneumonia
+Drug administered to patient of inappropriate age
+Dehydration
+Injection site inflammation
+Pharyngitis
+Inflammation
+Axillary pain
+Face oedema
+White blood cell count increased
+Apnoea
+Swollen tongue
+Joint swelling
+Limb discomfort
+Blood test normal
+Urine analysis
+Gaze palsy
+Loss of personal independence in daily activities
+Local swelling
+Balance disorder
+Chest X-ray normal
+X-ray
+Skin lesion
+Otitis media
+Injection site cellulitis
+Dysgeusia
+Hypoaesthesia oral
+Laboratory test normal
+Ear pain
+Injection site bruising
+Injection site nodule
+Visual impairment
+Injection site vesicles
+Presyncope
+Nasopharyngitis
+Rhinitis
+Expired drug administered
+Lymph node pain
+Joint range of motion decreased
+Interchange of vaccine products
+Guillain-Barre syndrome
+Speech disorder
+Skin ulcer
+Ultrasound scan
+Computerised tomogram normal
+Eye pain
+Asthma
+Respiratory tract congestion
+Head injury
+Magnetic resonance imaging
+Hot flush
+Ocular hyperaemia
+Abnormal behaviour
+Haematochezia
+Hypertonia
+Intussusception
+Eye movement disorder
+Medication error
+Vaccination site warmth
+Dysphonia
+Hypersomnia
+Underdose
+Pharyngeal swelling
+Vaccination failure
+Vaccine positive rechallenge
+Anaphylactic reaction
+Vaccination site pruritus
+Urine analysis normal
+Echocardiogram
+Wrong product administered
+Illness
+Ageusia
+Staring
+Blood glucose normal
+Disorientation
+Petechiae
+Intensive care
+Neuralgia
+Night sweats
+Nervousness
+Varicella
+Nuclear magnetic resonance imaging
+Dysstasia
+Weight decreased
+Varicella post vaccine
+Activities of daily living impaired
+Thrombosis
+Arthritis
+Epistaxis
+Cerebrovascular accident
+Blood pressure measurement
+Platelet count decreased
+Disturbance in attention
+Sudden infant death syndrome
+Aphasia
+Computerised tomogram head
+Bone pain
+Photophobia
+Autism
+Injection site discolouration
+Drug exposure during pregnancy
+Blood glucose increased
+Facial paralysis
+Bell's palsy
+Sneezing
+C-reactive protein increased
+Heavy menstrual bleeding
+Lumbar puncture
+Vaccination site rash
+Head discomfort
+Erythema multiforme
+Electrocardiogram abnormal
+Muscle tightness
+Nodule
+Heart rate
+Pulmonary embolism
+Blood culture negative
+Dry mouth
+Pain in jaw
+Anosmia
+Retching
+Red blood cell sedimentation rate increased
+Lacrimation increased
+Hypoxia
+Electroencephalogram
+Metabolic function test normal
+Blood pressure decreased
+Constipation
+Ear discomfort
+Urinary tract infection
+Skin nodule
+Movement disorder
+Mass
+Peripheral coldness
+Chest X-ray abnormal
+Dyspepsia
+Eye pruritus
+Product preparation issue
+Joint stiffness
+Menstruation irregular
+Gait inability
+Pharyngeal oedema
+Electroencephalogram normal
+Leukocytosis
+Ecchymosis
+Influenza virus test negative
+Amnesia
+Pharyngolaryngeal pain
+Sinusitis
+Pruritus generalised
+Upper respiratory tract infection
+White blood cell count normal
+Myocarditis
+Dysarthria
+Skin burning sensation
+Coma
+Incorrect route of drug administration
+Pain of skin
+Abdominal distension
+Cardiac arrest
+Urinary incontinence
+Electroencephalogram abnormal
+Grand mal convulsion
+Injection site haemorrhage
+Alopecia
+Rash morbilliform
+Atrial fibrillation
+Deafness
+Streptococcus test negative
+Sepsis
+Memory impairment
+Abasia
+Skin exfoliation
+Haemoglobin normal
+Troponin increased
+Echocardiogram normal
+Scab
+Deep vein thrombosis
+Hyperventilation
+Depression
+Paralysis
+Conjunctivitis
+Immunoglobulin therapy
+Blood culture
+Eye irritation
+Oxygen saturation decreased
+Poor quality product administered
+Gastrointestinal disorder
+Platelet count normal
+Anaemia
+Haemorrhage
+Thirst
+Rash pustular
+Posture abnormal
+Restlessness
+Thrombocytopenia
+Injection site discomfort
+Eye disorder
+Respiratory disorder
+Eczema
+Respiratory arrest
+Polymerase chain reaction
+Nuclear magnetic resonance imaging normal
+Menstrual disorder
+Computerised tomogram head normal
+Bronchitis
+Oral herpes
+Dry skin
+Eyelid oedema
+Product dose omission issue
+Taste disorder
+Red blood cell sedimentation rate normal
+Coordination abnormal
+Incorrect route of product administration
+Aspartate aminotransferase increased
+Emotional distress
+Blindness
+Productive cough
+Haemoglobin decreased
+Hypoacusis
+Hyperaesthesia
+Syringe issue
+Breast pain
+Computerised tomogram abnormal
+Depressed level of consciousness
+Heart rate irregular
+Endotracheal intubation
+Bradycardia
+Sensory disturbance
+Seizure like phenomena
+Facial pain
+Alanine aminotransferase increased
+Nervous system disorder
+Myasthenic syndrome
+Facial palsy
+Differential white blood cell count
+Injection site abscess
+Heart rate decreased
+Pericarditis
+Bacterial infection
+Culture urine negative
+Ultrasound scan normal
+Musculoskeletal discomfort
+Troponin
+Vaccination site induration
+Neuropathy peripheral
+Hallucination
+Feeling of body temperature change
+Abortion spontaneous
+Adverse event
+Injection site haematoma
+Surgery
+Blood glucose
+Flatulence
+Adverse reaction
+C-reactive protein
+Gastrooesophageal reflux disease
+X-ray normal
+Incomplete course of vaccination
+Product preparation error
+Ultrasound Doppler
+Product administered at inappropriate site
+Poor quality sleep
+Skin reaction
+Injury
+Diplopia
+Angioedema
+Ear infection
+Myocardial infarction
+Sensation of foreign body
+Lung disorder
+Ultrasound scan abnormal
+Vaccination site reaction
+C-reactive protein normal
+Cognitive disorder
+Vital signs measurement
+Blood thyroid stimulating hormone
+Meningitis
+Musculoskeletal chest pain
+Anticoagulant therapy
+Diet refusal
+Vaginal haemorrhage
+Osteoarthritis
+Oropharyngeal discomfort
+Mental status changes
+Feeding disorder
+Respiratory distress
+Red blood cell sedimentation rate
+Respiratory rate increased
+Faeces discoloured
+Blood test abnormal
+Dysmenorrhoea
+Haematocrit normal
+Maternal exposure during pregnancy
+Encephalitis
+White blood cell count decreased
+Resuscitation
+Nuclear magnetic resonance imaging abnormal
+Sinus congestion
+Magnetic resonance imaging head
+Stomatitis
+Panic attack
+Abscess
+Skin irritation
+Culture urine
+Impaired driving ability
+Hemiparesis
+Injection site irritation
+Computerised tomogram thorax
+Acute kidney injury
+Angiogram
+Skin disorder
+Echocardiogram abnormal
+Antibody test negative
+Skin tightness
+COVID-19 pneumonia
+Salivary hypersecretion
+Blood creatinine normal
+Incorrect product formulation administered
+Drug administered at inappropriate site
+Rheumatoid arthritis
+CSF test abnormal
+Enema administration
+Oxygen saturation
+Fibrin D dimer
+Deafness unilateral
+Parosmia
+Pollakiuria
+Muscle rigidity
+Encephalopathy
+Sensitive skin
+Neuropathy
+Vomiting projectile
+Papule
+SARS-CoV-2 antibody test
+Arrhythmia
+Listless
+Tongue disorder
+Bursitis
+Opisthotonus
+Acne
+Swelling of eyelid
+Hypophagia
+Computerised tomogram thorax abnormal
+Allergy to vaccine
+Haematocrit decreased
+Delirium
+Fibrin D dimer increased
+Product temperature excursion issue
+Weight bearing difficulty
+Lumbar puncture normal
+Visual disturbance
+Mydriasis
+Immune system disorder
+No reaction on previous exposure to drug
+Drooling
+Blood potassium normal
+Blood creatine phosphokinase increased
+Nuclear magnetic resonance imaging brain normal
+Blood creatinine increased
+Magnetic resonance imaging normal
+Dry throat
+Sluggishness
+Eye discharge
+Vaccination site mass
+Blood sodium normal
+Injection site infection
+Exposure to SARS-CoV-2
+Off label use
+Toothache
+Neurological symptom
+Purpura
+Nuchal rigidity
+White blood cell count
+Sensory loss
+Autopsy
+Grip strength decreased
+Thinking abnormal
+Dysuria
+Dermatitis
+Vasodilation procedure
+Bedridden
+Acoustic stimulation tests
+Cardiac monitoring
+Mental impairment
+Urine analysis abnormal
+Blood urea normal
+Mouth ulceration
+Injection site hypoaesthesia
+Mental retardation severity unspecified
+Ultrasound abdomen
+Troponin normal
+Antinuclear antibody
+CSF culture negative
+Abdominal X-ray
+Aggression
+Oral intake reduced
+Arthropathy
+Cardiac stress test
+Generalised tonic-clonic seizure
+Pregnancy test positive
+Serum sickness
+Drug toxicity
+Difficulty in walking
+Hypoventilation
+Ultrasound abdomen abnormal
+Blood glucose decreased
+Gastroenteritis
+Antinuclear antibody negative
+Blood urine present
+Magnetic resonance imaging head abnormal
+Pharyngeal paraesthesia
+Mucous stools
+Blood chloride normal
+CSF protein increased
+Injection site papule
+Pulmonary oedema
+Respiratory failure
+Laryngospasm
+Middle insomnia
+Dyspnoea exertional
+Injection site paraesthesia
+Ultrasound Doppler abnormal
+Biopsy
+Dizziness postural
+Mouth swelling
+Intermenstrual bleeding
+Oral pain
+Hyperacusis
+Body temperature decreased
+Mechanical ventilation
+Flank pain
+Ear disorder
+Shock
+Electromyogram
+Magnetic resonance imaging head normal
+Respiratory syncytial virus test negative
+Computerised tomogram abdomen
+Autoimmune disorder
+Menstruation delayed
+Streptococcus test
+Walking aid user
+Axillary mass
+Spinal pain
+Computerised tomogram head abnormal
+Feeling jittery
+Culture
+Postictal state
+Choking
+Painful respiration
+Platelet count increased
+Weight increased
+Diarrhoea haemorrhagic
+Blood potassium decreased
+Periarthritis
+Oral discomfort
+Cardiac disorder
+Fear
+Influenza B virus test
+X-ray limb
+Occult blood positive
+Decreased eye contact
+Acute respiratory failure
+Full blood count abnormal
+VIIth nerve paralysis
+Cardiac flutter
+Abdominal pain lower
+Blood sodium decreased
+Viral test negative
+Acute myocardial infarction
+Nerve injury
+Facial paresis
+Nuclear magnetic resonance imaging brain
+Sensation of heaviness
+Ocular discomfort
+Scan with contrast
+Neurodevelopmental disorder
+Differential white blood cell count normal
+Rotavirus test positive
+Hypopnoea
+Blood calcium normal
+Personality disorder
+Varicella virus test positive
+Blood thyroid stimulating hormone normal
+Diabetes mellitus
+Pregnancy test
+Nuclear magnetic resonance imaging brain abnormal
+Influenza A virus test negative
+Wrong technique in product usage process
+Magnetic resonance imaging abnormal
+Myelitis transverse
+Blood urea increased
+Gastrointestinal haemorrhage
+Blepharospasm
+Red blood cell count normal
+X-ray abnormal
+Secretion discharge
+Hyperglycaemia
+Chromaturia
+Pleural effusion
+Hepatitis B antibody negative
+Food allergy
+Glossodynia
+Injection site streaking
+Tonic clonic movements
+Post herpetic neuralgia
+Paranasal sinus discomfort
+Vasculitis
+Tachypnoea
+Tongue oedema
+Abnormal faeces
+Developmental delay
+Angina pectoris
+Tendonitis
+Periorbital swelling
+Troponin I increased
+Ataxia
+Eating disorder
+Blood alkaline phosphatase increased
+Mean cell volume normal
+Skin swelling
+Hypothermia
+Autism spectrum disorder
+Leukopenia
+Fibromyalgia
+Overdose
+Alanine aminotransferase normal
+Electrocardiogram ST segment elevation
+Antibody test
+Culture negative
+Electromyogram abnormal
+Ventricular extrasystoles
+Pulmonary congestion
+Musculoskeletal disorder
+Haematuria
+Dry eye
+Platelet count
+Speech disorder developmental
+Renal pain
+Neurological examination
+Similar reaction on previous exposure to drug
+Red blood cell count decreased
+Blood creatine phosphokinase normal
+Multiple sclerosis
+Carbon dioxide normal
+Neurological examination normal
+Haematoma
+Allergy test
+Wrong technique in drug usage process
+Muscle contractions involuntary
+Altered state of consciousness
+Respiration abnormal
+Neutrophil count increased
+Groin pain
+X-ray limb normal
+Jaundice
+Drug hypersensitivity
+Rotator cuff syndrome
+Aspartate aminotransferase normal
+Culture stool negative
+Neutrophil percentage increased
+Pertussis
+Hepatic function abnormal
+Muscle fatigue
+Tic
+Transient ischaemic attack
+Decreased immune responsiveness
+Product quality issue
+Hyponatraemia
+Liver function test normal
+Abnormal dreams
+Suspected COVID-19
+Borrelia test negative
+Investigation
+Blood alkaline phosphatase normal
+Oral pruritus
+Parotitis
+Rheumatoid factor negative
+Adverse drug reaction
+Amenorrhoea
+Face injury
+Influenza virus test
+Antinuclear antibody positive
+Lymphadenitis
+Blood electrolytes normal
+Cardiac failure congestive
+Biopsy skin abnormal
+Ear swelling
+Smear cervix abnormal
+Angioneurotic oedema
+Red cell distribution width normal
+Eyelid ptosis
+Blood creatine phosphokinase
+General physical health deterioration
+Electrocardiogram ambulatory
+Lung opacity
+Decreased activity
+Caesarean section
+Breast swelling
+Psychomotor hyperactivity
+Nightmare
+Laryngitis
+Aphonia
+Product administration error
+Appendicitis
+Renal failure
+Systemic lupus erythematosus
+Depressed mood
+Biopsy skin
+Dermatitis contact
+Respiratory viral panel
+Blood bilirubin normal
+Barium enema
+Lymphocyte percentage decreased
+Pericardial effusion
+Tension
+Mean cell haemoglobin concentration normal
+Oral mucosal blistering
+Lumbar puncture abnormal
+Staphylococcal infection
+Blood bilirubin increased
+Epilepsy
+Hepatic enzyme increased
+Brain oedema
+CSF test normal
+Frequent bowel movements
+Blood pressure
+Skin striae
+Protein total normal
+Prothrombin time
+Computerised tomogram abdomen abnormal
+Blood lactic acid
+Immunisation
+Cerebral haemorrhage
+Sinus headache
+Photosensitivity reaction
+Tunnel vision
+Thrombocytopenic purpura
+Myoclonus
+Herpes simplex
+Vaccination site bruising
+Viral test
+CSF glucose normal
+Fluid retention
+Drug administration error
+Troponin I
+Myositis
+Livedo reticularis
+Therapeutic response unexpected
+Angiogram pulmonary abnormal
+Injection site joint pain
+Scar
+Bacterial test negative
+Sinus disorder
+Skin laceration
+Vitreous floaters
+Tongue discomfort
+Haemoptysis
+Ophthalmic herpes zoster
+Culture stool
+Appendicectomy
+Strabismus
+Atelectasis
+Limb injury
+Stridor
+Hepatitis
+Breath holding
+High-pitched crying
+Anger
+Motor dysfunction
+Injection site movement impairment
+Optic neuritis
+Eye oedema
+Ophthalmological examination
+Catheterisation cardiac
+Immunology test
+Heart rate normal
+Sinus tachycardia
+Psoriasis
+Infantile spitting up
+International normalised ratio
+Amblyopia
+Blood albumin normal
+Blood magnesium normal
+Moaning
+Haematemesis
+Bronchiolitis
+Mean cell haemoglobin normal
+Vaccine breakthrough infection
+Scratch
+Injection site discharge
+Monoplegia
+Monocyte count increased
+Scan brain
+Pharyngeal hypoaesthesia
+Electric shock sensation
+Accidental overdose
+Physical examination
+Incoherent
+Lymphocyte count normal
+Tongue pruritus
+Liver function test
+Liver function test abnormal
+Muscle atrophy
+Social avoidant behaviour
+Limb mass
+Stress
+Mumps
+Fibrin D dimer normal
+Blindness unilateral
+Foaming at mouth
+Upper-airway cough syndrome
+Pregnancy test negative
+Measles antibody negative
+Ultrasound abdomen normal
+Hypoglycaemia
+Blood immunoglobulin G
+Pulse abnormal
+Weight
+Needle issue
+Foetal exposure during pregnancy
+Formication
+Therapy non-responder
+Skin mass
+Nerve conduction studies
+Pelvic pain
+Hemiplegia
+Monocyte percentage
+Activated partial thromboplastin time
+Product use issue
+Eructation
+Pulse absent
+Grunting
+Cold compress therapy
+Pulmonary thrombosis
+Foetal disorder
+Lacrimal disorder
+Hypoaesthesia facial
+Infantile spasms
+Injection site pustule
+Influenza A virus test positive
+Blood lactate dehydrogenase increased
+Streptococcal identification test negative
+Mononucleosis heterophile test negative
+Cardiomegaly
+No therapeutic response
+Polymerase chain reaction positive
+Cardiac failure
+Cheilitis
+Anaphylactoid reaction
+Blood magnesium
+Thyroid function test normal
+Increased upper airway secretion
+Rheumatoid factor
+Lymphocyte percentage
+Blood pressure fluctuation
+Monocyte percentage increased
+Urinary retention
+Colonoscopy
+Mood altered
+Cardio-respiratory arrest
+Lung infiltration
+Accidental exposure to product
+Exposure via skin contact
+Blood pressure abnormal
+Gastrointestinal pain
+Oxygen saturation normal
+Extensive swelling of vaccinated limb
+Transfusion
+Papilloma viral infection
+Asymptomatic COVID-19
+Thyroid function test
+Shoulder pain
+Circumstance or information capable of leading to medication error
+Syncope vasovagal
+Polymenorrhoea
+Blood immunoglobulin M
+Pharyngeal erythema
+Ultrasound Doppler normal
+Gout
+Supraventricular tachycardia
+Stomach discomfort
+Pulmonary pain
+Contraindication to vaccination
+Neutrophil count decreased
+Oligomenorrhoea
+Rectal haemorrhage
+Breast tenderness
+Hyporeflexia
+Acoustic stimulation tests abnormal
+Urine output decreased
+Chronic obstructive pulmonary disease
+Injection site scab
+HIV test negative
+Dermatitis allergic
+Glycosylated haemoglobin
+Injection site anaesthesia
+Mumps antibody test negative
+SARS-CoV-2 antibody test negative
+Odynophagia
+Vaccination error
+Incontinence
+Cardiovascular disorder
+Breath sounds abnormal
+Feeling drunk
+Fungal infection
+CSF white blood cell count increased
+Influenza serology negative
+Viral rash
+Photopsia
+Haemoglobin
+Anaphylactic shock
+Upper respiratory tract congestion
+Streptococcus test positive
+Magnetic resonance imaging heart
+Deafness neurosensory
+Lip blister
+Blood albumin decreased
+Emotional disorder
+Ejection fraction decreased
+Brain natriuretic peptide increased
+Visual field defect
+Blood cholesterol increased
+Stool analysis
+Eosinophil percentage
+Sciatica
+Demyelination
+International normalised ratio normal
+Endoscopy
+Carbon dioxide decreased
+Dysphemia
+Sinus pain
+Cyst
+Hyporesponsive to stimuli
+Lymphocyte count decreased
+Henoch-Schonlein purpura
+Device connection issue
+Heart rate abnormal
+Status epilepticus
+Measles
+Antisocial behaviour
+Wheelchair user
+Human papilloma virus test positive
+Ultrasound antenatal screen normal
+Neutrophil percentage decreased
+Periorbital oedema
+Mean platelet volume normal
+Nerve conduction studies abnormal
+Asthenopia
+Parotid gland enlargement
+Eosinophil count normal
+Panic reaction
+Idiopathic thrombocytopenic purpura
+Scan with contrast abnormal
+Nystagmus
+Plasmapheresis
+Neutrophil count normal
+No adverse effect
+Eyelid function disorder
+Dermatitis diaper
+Incorrect drug dosage form administered
+Fontanelle bulging
+Areflexia
+Muscle strain
+Rotavirus infection
+Gingival bleeding
+Colitis
+Joint injury
+Immunisation reaction
+Borrelia test
+Concussion
+Mammogram
+Kawasaki's disease
+Lip pruritus
+Gastritis
+Neutrophil percentage
+Generalised erythema
+Nasal discomfort
+Extrasystoles
+Gingival pain
+Bowel movement irregularity
+Hypokalaemia
+Polymyalgia rheumatica
+Bronchospasm
+Tension headache
+Vitamin B12 normal
+CSF protein normal
+Muscle disorder
+Rubella antibody negative
+Cerebral infarction
+Blood calcium decreased
+Computerised tomogram neck
+Eye haemorrhage
+Bed rest
+X-ray limb abnormal
+Myelitis
+Postural orthostatic tachycardia syndrome
+Personality change
+Drug screen negative
+Renal impairment
+Trismus
+Type III immune complex mediated reaction
+Accidental exposure
+Shoulder injury related to vaccine administration
+Neuritis
+Skin infection
+Herpes virus infection
+Fluid intake reduced
+Blood culture positive
+Vaccination site discolouration
+Immune thrombocytopenia
+Sialoadenitis
+Lymphoedema
+International normalised ratio increased
+Urinary system X-ray
+Muscle swelling
+Injection site atrophy
+Secondary transmission
+Regressive behaviour
+Exercise tolerance decreased
+Monocyte count normal
+Neutropenia
+Blood pressure normal
+Postmenopausal haemorrhage
+Throat clearing
+Intestinal obstruction
+Tonsillitis
+Ear congestion
+Blood immunoglobulin G normal
+Electromyogram normal
+Hepatitis B surface antibody negative
+Magnetic resonance imaging neck
+Prothrombin time normal
+Visual acuity reduced
+Cytomegalovirus test negative
+Skin abrasion
+Lymphocyte count increased
+Body temperature fluctuation
+Vaccination site urticaria
+SARS-CoV-2 antibody test positive
+Hypothyroidism
+Neurological examination abnormal
+No adverse reaction
+Communication disorder
+Sudden hearing loss
+Cardiomyopathy
+Vitamin D
+Culture throat negative
+Ischaemic stroke
+Aphthous ulcer
+Croup infectious
+Glomerular filtration rate
+Varicella virus test negative
+Skin induration
+Lipids
+Mood swings
+Respiratory rate
+Dementia
+Intracranial pressure increased
+Peripheral vascular disorder
+Blood thyroid stimulating hormone decreased
+Orthostatic hypotension
+Chapped lips
+Macule
+Anion gap
+Splenomegaly
+Arthropod bite
+Fear of injection
+Tongue discolouration
+Unintended pregnancy
+Mental disorder
+Torticollis
+Pancreatitis
+Uveitis
+Furuncle
+Protein urine present
+Pleuritic pain
+Allergy test negative
+Allergy test positive
+Excessive eye blinking
+Acute disseminated encephalomyelitis
+Injection site extravasation
+Cystitis
+Partial seizures
+Incisional drainage
+Basophil percentage
+Blood potassium increased
+Neutrophil count
+Lip pain
+Cardioversion
+Vaccination site inflammation
+Head banging
+Computerised tomogram thorax normal
+Herpes simplex serology negative
+Neck mass
+Cardiac stress test normal
+Enterovirus test negative
+Barium double contrast
+Petit mal epilepsy
+Micturition urgency
+CSF white blood cell count negative
+Excoriation
+Tonsillar hypertrophy
+Lymphocyte percentage increased
+Acoustic stimulation tests normal
+Gastric disorder
+Bruxism
+Restless legs syndrome
+Premature baby
+Suicidal ideation
+Hearing impaired
+Ear pruritus
+Delivery
+Anal incontinence
+Nephrolithiasis
+Epstein-Barr virus test negative
+Abortion
+Pityriasis rosea
+Skin plaque
+Lipase
+Clumsiness
+Oral mucosal eruption
+Catheterisation cardiac normal
+Laceration
+Respiratory tract infection
+Irritable bowel syndrome
+Type 1 diabetes mellitus
+Rhabdomyolysis
+Eye rolling
+Pharyngitis streptococcal
+Dermatitis exfoliative
+Pregnancy
+Temperature intolerance
+Blood creatinine
+Spinal X-ray
+Scan
+Trigeminal neuralgia
+Wound
+Complement factor C3
+Nonspecific reaction
+Scan with contrast normal
+Treponema test negative
+Slow response to stimuli
+Oedema mouth
+Glomerular filtration rate decreased
+Basophil percentage decreased
+Posturing
+Respiratory rate decreased
+Prothrombin time prolonged
+Oral disorder
+Eye inflammation
+Radiculitis brachial
+Blindness transient
+Basophil count normal
+Vaccination site movement impairment
+Vitamin B12
+Magnetic resonance imaging spinal
+Acidosis
+Brain injury
+Blood product transfusion
+Culture throat
+Pulmonary function test
+Erythema of eyelid
+Euphoric mood
+Childhood disintegrative disorder
+Brain natriuretic peptide
+Hepatomegaly
+Breast mass
+Angiogram normal
+Premature labour
+Coagulopathy
+Hyperkinesia
+Herpes simplex test negative
+Magnetic resonance imaging spinal abnormal
+Synovitis
+Urine human chorionic gonadotropin positive
+Rotavirus test negative
+Blood glucose abnormal
+Skin papilloma
+Blood lactic acid increased
+Vaccination site haemorrhage
+Gingival swelling
+Road traffic accident
+Antibody test positive
+Basophil count decreased
+Systemic inflammatory response syndrome
+White blood cell disorder
+Tendon disorder
+Renal disorder
+Disability
+Immune thrombocytopenic purpura
+Audiogram
+Respiratory syncytial virus test
+Glassy eyes
+Troponin I normal
+Cerebellar ataxia
+Congenital anomaly
+Blood electrolytes
+Mouth haemorrhage
+Gram stain negative
+Bone disorder
+Pneumonitis
+Gastroenteritis viral
+Lyme disease
+Coronary artery disease
+Red blood cells CSF positive
+Brain natriuretic peptide normal
+Joint effusion
+Nerve compression
+Influenza virus test positive
+Respiratory symptom
+Thrombocythaemia
+Aspiration
+Sleep apnoea syndrome
+Streptococcal identification test
+Computerised tomogram pelvis
+Facial discomfort
+Ultrasound antenatal screen abnormal
+Glycosylated haemoglobin increased
+Dystonia
+Localised oedema
+Apparent life threatening event
+Liver function test increased
+Reaction to previous exposure to any vaccine
+Vertigo positional
+Tryptase
+Lip dry
+Inflammatory marker increased
+Yellow skin
+Bacterial test
+Stevens-Johnson syndrome
+Faecal incontinence
+CSF test
+Pleurisy
+Mastication disorder
+Hypotonic-hyporesponsive episode
+Nitrite urine absent
+Injection site macule
+Bilevel positive airway pressure
+Maternal exposure before pregnancy
+Complement factor C4
+Catheterisation cardiac abnormal
+Infectious mononucleosis
+Imaging procedure
+Neuralgic amyotrophy
+Eosinophil count increased
+Respiratory syncytial virus infection
+Menorrhagia
+Hallucination, visual
+Skin hyperpigmentation
+Thermal burn
+Exposure to communicable disease
+Activated partial thromboplastin time normal
+Red cell distribution width increased
+Affect lability
+Eosinophil count decreased
+Lymphocytosis
+Roseola
+Central nervous system lesion
+Diplegia
+Vaccination site discomfort
+Auricular swelling
+Oxygen supplementation
+Lipase normal
+Uterine dilation and curettage
+Diverticulitis
+Dermatitis acneiform
+Hunger
+Ventricular tachycardia
+Chemotherapy
+Post-acute COVID-19 syndrome
+Erectile dysfunction
+Audiogram abnormal
+Renal function test normal
+Premature delivery
+Carpal tunnel syndrome
+Purulent discharge
+Oral administration complication
+Melaena
+Urine ketone body present
+Abnormal sensation in eye
+Tearfulness
+Eosinophilia
+Ejection fraction normal
+Erythema nodosum
+Polyuria
+Localised infection
+Apgar score normal
+Oral candidiasis
+Blood gases
+Lip injury
+Glossitis
+Mononucleosis heterophile test
+Autonomic nervous system imbalance
+Middle ear effusion
+Hyperkalaemia
+Pregnancy test urine positive
+Exfoliative rash
+Crohn's disease
+Tendon pain
+Culture positive
+Stool analysis normal
+Infection transmission via personal contact
+Blood chloride increased
+Nuclear magnetic resonance imaging spinal
+Peroneal nerve palsy
+Neoplasm malignant
+Colitis ulcerative
+Gastroenteritis rotavirus
+Adenovirus test
+Delusion
+Vaccination site cellulitis
+Lymphangitis
+Specific gravity urine normal
+Raynaud's phenomenon
+pH urine normal
+HIV test
+Blood potassium
+Drug screen
+Immunodeficiency
+Eyelid disorder
+Nuclear magnetic resonance imaging spinal abnormal
+Glomerular filtration rate normal
+Thrombectomy
+Ophthalmological examination abnormal
+Platelet transfusion
+Blood chloride decreased
+Body temperature normal
+Gastrointestinal tube insertion
+Lymphocyte count
+Blood lactic acid normal
+Vaccination site nodule
+Human chorionic gonadotropin
+Seasonal allergy
+Thrombophlebitis superficial
+Angiogram abnormal
+Sinus bradycardia
+Blood creatine phosphokinase MB increased
+Blood cholesterol
+Motion sickness
+Varicella virus test
+Eyelid rash
+Eosinophil percentage decreased
+Alpha 1 foetoprotein normal
+Ovarian cyst
+White blood cells urine positive
+Pain assessment
+Sunburn
+Upper extremity mass
+Thyroxine free normal
+Migraine with aura
+Immobile
+Initial insomnia
+Piloerection
+Occult blood negative
+Hepatitis B surface antigen negative
+Hyperreflexia
+Subdural haematoma
+Culture urine positive
+Folliculitis
+Septic shock
+Diagnostic procedure
+Thyroid disorder
+Atrial flutter
+Acute respiratory distress syndrome
+Computerised tomogram abdomen normal
+Feeding disorder of infancy or early childhood
+Costochondritis
+Sputum discoloured
+Abortion induced
+Serum ferritin increased
+Glucose urine absent
+Ultrasound antenatal screen
+Prenatal screening test
+Blood iron decreased
+Sudden death
+Urine leukocyte esterase
+Hyperbilirubinaemia
+Epstein-Barr virus antibody positive
+Sinus operation
+Pulmonary mass
+Generalised oedema
+Cardiac murmur
+Thyroxine free
+Testicular pain
+Miosis
+Protein total decreased
+Pustule
+Pneumothorax
+Measles post vaccine
+Skin test
+Epstein-Barr virus antibody negative
+Protein urine absent
+Attention deficit/hyperactivity disorder
+Muscle contracture
+Blood urea
+Otitis media acute
+Bacterial test positive
+Occult blood
+Injection site scar
+Influenza A virus test
+Fine motor skill dysfunction
+Magnetic resonance imaging brain normal
+Abdominal tenderness
+Cervical dysplasia
+Snoring
+Myopathy
+Measles antibody positive
+Vitamin D decreased
+Human chorionic gonadotropin positive
+Blood thyroid stimulating hormone increased
+Hepatitis C antibody negative
+Pathology test
+Metabolic function test abnormal
+X-ray with contrast upper gastrointestinal tract
+Hepatic enzyme abnormal
+Abscess drainage
+Culture stool positive
+Pneumonia aspiration
+Obsessive-compulsive disorder
+Miliaria
+Milk allergy
+Ophthalmological examination normal
+Obstructive airways disorder
+Tongue ulceration
+Tuberculin test
+Post-tussive vomiting
+Positron emission tomogram
+Bladder catheterisation
+Proteinuria
+Blood calcium increased
+Asphyxia
+Hydrocephalus
+Diabetic ketoacidosis
+Body height
+Eosinophil percentage increased
+Injury associated with device
+Skin sensitisation
+Pancytopenia
+Bordetella test positive
+Paranoia
+Intervertebral disc protrusion
+Polyarthritis
+Autoimmune thyroiditis
+Blood bilirubin
+Skin test positive
+Metal poisoning
+Suture insertion
+Urine ketone body absent
+Influenza B virus test positive
+Conversion disorder
+Epstein-Barr virus test
+Psychotic disorder
+Red blood cell count
+Consciousness fluctuating
+Ill-defined disorder
+Quality of life decreased
+Cardiac imaging procedure abnormal
+Bradyphrenia
+Eye infection
+Myasthenia gravis
+Ultrasound scan vagina
+Magnetic resonance imaging spinal normal
+Blood amylase increased
+Transaminases increased
+Protein total increased
+Tooth fracture
+Tongue blistering
+Apathy
+Blood urea decreased
+Type IV hypersensitivity reaction
+Mean cell volume decreased
+Slow speech
+Blood creatine phosphokinase MB
+Cardiac pacemaker insertion
+Mean cell haemoglobin decreased
+Kidney infection
+Anogenital warts
+Antibody test abnormal
+Ejection fraction
+Angiogram cerebral abnormal
+Near death experience
+Neoplasm
+Subarachnoid haemorrhage
+Streptococcal infection
+Dark circles under eyes
+Stent placement
+Disease recurrence
+Angiogram cerebral normal
+Chronic inflammatory demyelinating polyradiculoneuropathy
+Red blood cell count increased
+Cardiac monitoring normal
+Injection site joint movement impairment
+Nerve conduction studies normal
+Alanine aminotransferase
+Hepatic steatosis
+Intervertebral disc degeneration
+Aspartate aminotransferase
+Blood calcium
+Procalcitonin
+Lip erythema
+Hyperthyroidism
+Cerebral thrombosis
+Cardiac discomfort
+Disturbance in social behaviour
+Coronary arterial stent insertion
+Influenza serology positive
+CSF cell count normal
+Renal function test
+Appetite disorder
+Genital herpes
+CSF red blood cell count positive
+Maternal exposure during breast feeding
+Cerebral venous sinus thrombosis
+Oliguria
+Retinal haemorrhage
+Meningitis aseptic
+Blood bicarbonate decreased
+Eyelids pruritus
+Accidental underdose
+Necrosis
+Hiccups
+Dissociation
+Lipase increased
+Lipids normal
+Blood count
+Paranasal sinus hypersecretion
+Candidiasis
+Cholelithiasis
+Head titubation
+Human chorionic gonadotropin negative
+Haemorrhage intracranial
+Thyroxine
+Rubella antibody positive
+Deafness bilateral
+Smear cervix
+Breast feeding
+Biopsy bone marrow
+Magnetic resonance imaging brain abnormal
+Faeces pale
+Pupil fixed
+Cardiovascular evaluation
+Foetal death
+Haemolytic anaemia
+Dysgraphia
+Sedation
+Cow pox
+Food intolerance
+Haematocrit
+Fluid replacement
+Red blood cell abnormality
+Hallucination, auditory
+Liver disorder
+Borrelia burgdorferi serology negative
+Ear, nose and throat examination
+Nuclear magnetic resonance imaging spinal normal
+Exposure via breast milk
+Supraventricular extrasystoles
+Metabolic acidosis
+Polyneuropathy
+Spinal X-ray normal
+Meningitis viral
+Sinus rhythm
+Coagulation test
+Blood phosphorus normal
+Muscle discomfort
+Vaccination site lymphadenopathy
+Loss of control of legs
+Glycosylated haemoglobin normal
+Cardiac function test
+Body temperature abnormal
+Inflammatory marker test
+Lip discolouration
+Conjunctival hyperaemia
+Toxicologic test
+Activated partial thromboplastin time shortened
+Differential white blood cell count abnormal
+Myocardial necrosis marker
+Viral upper respiratory tract infection
+Haemorrhoids
+Failure to thrive
+Injection site necrosis
+Blood folate normal
+Arteriogram carotid normal
+Apnoeic attack
+Gram stain
+Intentional product use issue
+Hyperlipidaemia
+Urine abnormality
+Hepatitis B surface antigen positive
+Conjunctival haemorrhage
+Poor peripheral circulation
+Herpes zoster oticus
+Lower respiratory tract infection
+Genital rash
+Anion gap normal
+Joint noise
+Mucous membrane disorder
+Enuresis
+Tonic convulsion
+Staphylococcus test positive
+Continuous positive airway pressure
+Stereotypy
+Neonatal disorder
+Blood iron
+Hospitalisation
+Energy increased
+Mitral valve incompetence
+Skin haemorrhage
+X-ray of pelvis and hip
+Immunology test normal
+Serum ferritin
+Injection site dryness
+Eyelid margin crusting
+Injection site indentation
+Dermatitis atopic
+Therapeutic response decreased
+Vaginal discharge
+Blood cholesterol normal
+CSF culture
+Product supply issue
+Increased appetite
+Ascites
+Aura
+Miller Fisher syndrome
+Developmental regression
+Magnetic resonance imaging brain
+Defaecation urgency
+Haematocrit increased
+Cytogenetic analysis normal
+Aphagia
+Blood disorder
+Rales
+Teething
+Viral test positive
+Haematology test
+Hepatitis viral test negative
+White matter lesion
+Haemoglobin increased
+Dialysis
+Reaction to preservatives
+Coagulation test normal
+Blood creatinine decreased
+Cytomegalovirus test
+Laryngeal oedema
+Antineutrophil cytoplasmic antibody negative
+Serum ferritin normal
+Enlarged uvula
+Skin necrosis
+Pre-eclampsia
+Mean cell volume increased
+Skin test negative
+Hepatitis C test negative
+Toxicologic test normal
+Electrocardiogram T wave inversion
+Red blood cells urine positive
+Tongue biting
+Rhinalgia
+Aphthous stomatitis
+Globulin
+Lip oedema
+Hordeolum
+Hypochromic anaemia
+Coronary artery occlusion
+Hyperaemia
+Blood triglycerides increased
+Ultrasound pelvis
+Blood uric acid normal
+Urine odour abnormal
+Blood blister
+Refusal of treatment by patient
+Candida infection
+Poor feeding infant
+Atrioventricular block
+Ophthalmoplegia
+Subcutaneous nodule
+Sleep terror
+Pancreatitis acute
+Hypogeusia
+Lip disorder
+Immature granulocyte count
+Hepatic failure
+Osteomyelitis
+Mean platelet volume increased
+Alopecia areata
+Foetal heart rate abnormal
+Bundle branch block right
+Gastrointestinal sounds abnormal
+VIth nerve paralysis
+Ultrasound breast
+Cerebral ischaemia
+Feeding disorder neonatal
+Monocyte count
+X-ray of pelvis and hip normal
+Cytogenetic analysis
+Hypoaesthesia eye
+Tongue erythema
+Tooth disorder
+Ventricular fibrillation
+Pulmonary haemorrhage
+Chronic fatigue syndrome
+Ulcer
+Clonus
+Nephrotic syndrome
+Sensation of pressure
+Rotavirus test
+Blood immunoglobulin E
+Choking sensation
+Small intestinal obstruction
+Oral mucosal erythema
+Rhinitis allergic
+Lymphopenia
+Blood immunoglobulin G decreased
+Demyelinating polyneuropathy
+Left ventricular dysfunction
+Sleep study
+Venogram
+Blood immunoglobulin A normal
+Frustration tolerance decreased
+Growth retardation
+Haemorrhage urinary tract
+HIV antibody negative
+Intestinal resection
+Testicular swelling
+Temporomandibular joint syndrome
+Hangover
+Impetigo
+Blood immunoglobulin A
+Measles antibody
+Blood lactate dehydrogenase
+Blood sodium
+Eyelid pain
+Hyperaesthesia teeth
+Gamma-glutamyltransferase increased
+Impaired healing
+Low density lipoprotein normal
+Metamorphopsia
+Barium enema abnormal
+Social problem
+Blood folate
+Bilirubin urine
+Blood bicarbonate normal
+Mycoplasma test negative
+Blood immunoglobulin G increased
+Hepatitis A antibody negative
+Vestibular neuronitis
+Blood urea nitrogen/creatinine ratio
+Respiratory syncytial virus test positive
+Increased tendency to bruise
+Angiogram cerebral
+Papilloedema
+Labyrinthitis
+Colonoscopy abnormal
+Hepatitis B test negative
+Electrocardiogram ambulatory abnormal
+Complement factor normal
+Cholecystectomy
+Laparoscopic surgery
+Eye contusion
+Hormone level abnormal
+Mumps antibody test positive
+Regurgitation
+Influenza serology
+Cardiac monitoring abnormal
+Computerised tomogram spine
+Cataract
+Rosacea
+Blood immunoglobulin M normal
+Central venous catheterisation
+Lung consolidation
+Platelet disorder
+Angiopathy
+Skin odour abnormal
+Iritis
+Blood human chorionic gonadotropin positive
+Culture wound negative
+Blood phosphorus
+Pericardial disease
+Gene sequencing
+Tenosynovitis
+Type 2 diabetes mellitus
+Dysaesthesia
+Bacteraemia
+Bradykinesia
+Vulvovaginal pain
+Procalcitonin increased
+Protein total
+Mean cell haemoglobin increased
+Cardiac function test normal
+Angiogram pulmonary normal
+Drug interaction
+Goitre
+Sick relative
+Joint lock
+Yawning
+Oesophagitis
+Oropharyngeal blistering
+Blood immunoglobulin M increased
+Ultrasound foetal
+Clostridium test
+Chronic kidney disease
+Multiple organ dysfunction syndrome
+Arteriosclerosis
+Electrolyte imbalance
+Pulmonary hypertension
+Virus serology test
+Rheumatoid factor positive
+Blood pH decreased
+Spinal X-ray abnormal
+Physiotherapy
+Antinuclear antibody increased
+Troponin T increased
+Jaw disorder
+Pulseless electrical activity
+Myocardial necrosis marker normal
+Computerised tomogram pelvis abnormal
+Testicular disorder
+Ultrasound kidney
+Immunoglobulins
+Mammogram abnormal
+Oedema genital
+Orchitis
+Granuloma
+Skin hypertrophy
+Muscle spasticity
+Basedow's disease
+Joint dislocation
+Tricuspid valve incompetence
+Bronchial hyperreactivity
+Cerebral disorder
+Serology test
+Pleocytosis
+CSF glucose increased
+Skin discomfort
+Blood urine absent
+Vestibular disorder
+Acupuncture
+Treponema test
+Myocardial necrosis marker increased
+Menopause
+Injection site ulcer
+Blood triglycerides normal
+Seroconversion test negative
+Carbon dioxide increased
+Apraxia
+Vein disorder
+Nasal oedema
+Weight gain poor
+Troponin T
+Mycoplasma test
+Product label confusion
+Skin weeping
+Anion gap decreased
+Activated partial thromboplastin time prolonged
+Corneal reflex decreased
+Sinus arrhythmia
+Life support
+Pregnancy test urine negative
+Anti-thyroid antibody
+Glucose tolerance test
+White blood cells urine negative
+Packed red blood cell transfusion
+Phlebitis
+Injection site cyst
+Mastitis
+Catheter placement
+Blood uric acid
+Drainage
+Quadriplegia
+Thyroiditis
+Obesity
+Sjogren's syndrome
+Monocyte count decreased
+Blood iron normal
+Albumin globulin ratio normal
+Chlamydia test negative
+N-terminal prohormone brain natriuretic peptide increased
+Polydipsia
+Narcolepsy
+West Nile virus test negative
+Blood immunoglobulin E increased
+Decreased interest
+Electrocardiogram ambulatory normal
+Facial asymmetry
+Ligament sprain
+Renal failure acute
+Borrelia burgdorferi serology
+Intra-uterine death
+Tardive dyskinesia
+Cluster headache
+Blood magnesium increased
+Bordetella test negative
+Immunoglobulins increased
+Blood urine
+Meniere's disease
+Post vaccination autoinoculation
+Meningitis pneumococcal
+Facial spasm
+Double stranded DNA antibody
+Electrophoresis protein
+Administration site pain
+Administration site swelling
+Poliomyelitis
+Varicose vein
+Pigmentation disorder
+Abnormal loss of weight
+Pulse pressure decreased
+Injection site injury
+Specialist consultation
+Haemolysis
+Nail discolouration
+Intubation
+Ventricular hypokinesia
+Abdominal rigidity
+Antiphospholipid antibodies
+Parvovirus B19 test negative
+Clostridium test negative
+Exposure via eye contact
+Vitamin D deficiency
+Back injury
+Injection site lymphadenopathy
+Mean cell haemoglobin concentration decreased
+Product reconstitution issue
+Disorganised speech
+Hepatitis B surface antigen
+Ileus
+Abnormal sleep-related event
+Radiculopathy
+Spinal osteoarthritis
+Complex regional pain syndrome
+Electrocardiogram T wave abnormal
+CSF lymphocyte count increased
+Pneumonia viral
+Haemorrhagic stroke
+Pyelonephritis
+Streptococcal identification test positive
+Brain scan normal
+Toe walking
+Heat therapy
+Anti-cyclic citrullinated peptide antibody negative
+Vaccination site vesicles
+Dermatomyositis
+Blood alkaline phosphatase
+Nuclear magnetic resonance imaging spinal cord abnormal
+Arteriogram carotid
+Endoscopy abnormal
+Infusion
+Hostility
+Meningism
+Thrombotic thrombocytopenic purpura
+Lactic acidosis
+Interstitial lung disease
+Hypomenorrhoea
+Pemphigoid
+Gallbladder disorder
+Impaired gastric emptying
+Premenstrual syndrome
+Red blood cell nucleated morphology
+Scrotal oedema
+Hypercholesterolaemia
+Respiratory depression
+Cardiac stress test abnormal
+Varicella zoster virus serology positive
+Inappropriate affect
+Facial bones fracture
+Gestational diabetes
+Lip haemorrhage
+Colonoscopy normal
+Culture wound
+Foreign body sensation in eyes
+Stillbirth
+Leukaemia
+Pulmonary fibrosis
+Catatonia
+Tracheostomy
+Cardiac enzymes normal
+Back disorder
+Mammogram normal
+Coeliac disease
+Otorrhoea
+Biopsy bone marrow abnormal
+Tachyphrenia
+Hepatitis B core antibody negative
+Vaginal infection
+Hepatitis A
+Rheumatoid factor increased
+Culture wound positive
+Parasite stool test negative
+Flow cytometry
+Thyroxine normal
+Joint contracture
+Vaccination site oedema
+Salivary gland enlargement
+Atrial septal defect
+Brachial plexopathy
+Eosinophil count
+Hepatic enzyme
+Wound secretion
+Use of accessory respiratory muscles
+Functional gastrointestinal disorder
+Atypical pneumonia
+Gastrointestinal necrosis
+Cerebral palsy
+Hand-foot-and-mouth disease
+Proctalgia
+Myopericarditis
+Rubella
+Epstein-Barr virus infection
+Blood albumin
+Urobilinogen urine
+Appendicitis perforated
+Metrorrhagia
+Nasal dryness
+Mumps antibody test
+Explorative laparotomy
+Lichen planus
+Mean cell haemoglobin concentration
+Urine leukocyte esterase positive
+Food aversion
+Joint warmth
+Faeces soft
+COVID-19 immunisation
+Hepatocellular damage
+Hypocalcaemia
+Tilt table test
+Stool analysis abnormal
+Muscle injury
+Mean platelet volume decreased
+Hepatitis viral test
+Human metapneumovirus test
+Paralysis flaccid
+Aplastic anaemia
+Tendon rupture
+Lymphocyte morphology abnormal
+Cardiogenic shock
+Blood count normal
+Inability to crawl
+Lymph node palpable
+Breast discomfort
+Human rhinovirus test
+Urinary tract disorder
+Cholecystitis
+Electrocardiogram QT prolonged
+Drug eruption
+Bladder pain
+Anion gap increased
+Retinal vein occlusion
+Blood immunoglobulin M decreased
+Allodynia
+Tuberculin test negative
+Rib fracture
+Psoriatic arthropathy
+Blood glucose fluctuation
+Pneumonia bacterial
+Mechanical urticaria
+Arteriogram coronary normal
+Respiratory alkalosis
+Emphysema
+Gianotti-Crosti syndrome
+Granulocyte percentage
+Tooth injury
+Mononucleosis heterophile test positive
+Blood lactate dehydrogenase normal
+Keratitis
+Circulatory collapse
+Tympanic membrane hyperaemia
+Blood sodium increased
+Ultrasound kidney normal
+Pulmonary infarction
+Exaggerated startle response
+Rhonchi
+Cardiac telemetry
+Myosclerosis
+Cardiac failure acute
+Enzyme abnormality
+Post vaccination syndrome
+Varicella zoster serology negative
+Lobar pneumonia
+Blood gases abnormal
+Synovial cyst
+Hypertensive crisis
+Immunology test abnormal
+Abscess limb
+Angiotensin converting enzyme
+Blood magnesium decreased
+Helicobacter test negative
+Human rhinovirus test positive
+Lymphoma
+Blood osmolarity decreased
+Fluid overload
+Epstein-Barr virus test positive
+Virus culture
+Herpes zoster ophthalmic
+Rubella antibody test
+Tongue eruption
+Fungal test negative
+Irregular breathing
+Procalcitonin normal
+SARS-CoV-1 test
+Retinal detachment
+Biopsy kidney abnormal
+Electrocardiogram ST segment abnormal
+Mean cell haemoglobin
+Blister rupture
+Language disorder
+Spleen disorder
+CSF culture positive
+Nipple pain
+Brain death
+Hyposmia
+Multiple use of single-use product
+Blood uric acid increased
+Erythema induratum
+Hiatus hernia
+High density lipoprotein decreased
+Multiple allergies
+Uterine spasm
+Lip exfoliation
+Haematology test normal
+Blood lead
+Granuloma annulare
+Injection site joint swelling
+Nucleic acid test
+SARS-CoV-2 RNA
+Intraocular pressure increased
+Hepatitis B
+Non-cardiac chest pain
+Bilirubin conjugated increased
+Gastrointestinal inflammation
+Left ventricular hypertrophy
+Blood lactic acid decreased
+Skin fissures
+Nasal pruritus
+Depersonalisation
+Arthritis bacterial
+Scan normal
+Reading disorder
+Ear tube insertion
+Adnexa uteri pain
+Induced labour
+Crepitations
+Aspiration pleural cavity
+Tooth infection
+Blood bilirubin decreased
+Enteritis
+Electrocardiogram ST segment depression
+Mania
+Lactose intolerance
+Vulvovaginal pruritus
+Tongue dry
+Palmar erythema
+Gram stain positive
+Oesophagogastroduodenoscopy
+Trigger finger
+Vitreous detachment
+Clostridium test positive
+Occupational exposure to product
+Abnormal uterine bleeding
+Drug withdrawal syndrome
+Audiogram normal
+CSF glucose decreased
+Endoscopy normal
+Venogram normal
+General physical condition abnormal
+Hepatitis B surface antibody positive
+Vascular pain
+Nasal injury
+Retinal artery occlusion
+Exposure to vaccinated person
+Cerebral atrophy
+Tympanic membrane perforation
+Ultrasound biliary tract
+Multiple sclerosis relapse
+Injection site nerve damage
+Protein urine
+Anti-thyroid antibody positive
+Urinary sediment present
+Morbillivirus test positive
+Low birth weight baby
+Noninfective encephalitis
+Hernia
+Paraplegia
+Disseminated intravascular coagulation
+Learning disability
+CSF virus no organisms observed
+Thyroid function test abnormal
+Hepatitis B antibody
+Physical examination normal
+Viral DNA test positive
+Mouth injury
+Viral titre
+Oxygen therapy
+Sleep deficit
+Albumin globulin ratio
+Colectomy
+Band neutrophil percentage
+Staphylococcus test negative
+Small fibre neuropathy
+Hypovolaemia
+Gingivitis
+Injection site abscess sterile
+Bone scan
+Bladder disorder
+PCO2 increased
+Gastrostomy
+Extremity contracture
+Joint injection
+Ultrasound chest
+Fungal test
+Nucleated red cells
+Exposure via direct contact
+Product packaging confusion
+Varicella zoster virus infection
+Complication of pregnancy
+Cytomegalovirus test positive
+Complex partial seizures
+CSF oligoclonal band absent
+Antiphospholipid antibodies negative
+Urticaria chronic
+Abdominal mass
+Ultrasound thyroid
+Hip fracture
+Microscopy
+Blood pressure systolic increased
+Tourette's disorder
+Blood fibrinogen increased
+Blood phosphorus decreased
+Infrequent bowel movements
+Pneumonia pneumococcal
+PO2 decreased
+Rhinovirus infection
+Product container issue
+Thyroid mass
+Vitiligo
+Fracture
+High density lipoprotein normal
+Intentional self-injury
+X-ray gastrointestinal tract normal
+Hepatobiliary scan
+Pharmaceutical product complaint
+Autoimmune hepatitis
+CSF lymphocyte count normal
+Biopsy lymph gland
+General symptom
+Joint crepitation
+Intracardiac thrombus
+Asterixis
+Discharge
+N-terminal prohormone brain natriuretic peptide
+Angiocardiogram
+Postnasal drip
+Pruritus genital
+Psychomotor skills impaired
+Cardiolipin antibody
+Epstein-Barr virus antibody
+Respiratory tract irritation
+Skin erosion
+Metabolic encephalopathy
+Noninfective gingivitis
+Wrong patient received product
+Myocardial strain
+Intestinal perforation
+Breath odour
+Hypertrophy
+Faeces hard
+Parkinson's disease
+Orthopnoea
+Eyelid irritation
+Live birth
+Transient global amnesia
+Vitamin B12 decreased
+Viral titre decreased
+Pharyngeal disorder
+HIV antigen negative
+Hydronephrosis
+Low density lipoprotein increased
+Atrophy
+Familial risk factor
+Band neutrophil count increased
+Blood chloride
+Physical disability
+Venogram abnormal
+Body mass index
+Pulmonary function test normal
+Neisseria test positive
+Temperature regulation disorder
+Cerebral small vessel ischaemic disease
+Hepatic pain
+Palatal swelling
+Lipoma
+Peripheral sensory neuropathy
+Pupillary reflex impaired
+CSF white blood cell count
+Pneumococcal infection
+Foetal growth restriction
+Eye irrigation
+Autoimmune haemolytic anaemia
+Pericardial drainage
+Right ventricular failure
+Intracranial aneurysm
+Uterine haemorrhage
+Ventilation/perfusion scan
+Limb immobilisation
+Blood ketone body
+Biopsy kidney
+Smear cervix normal
+Complement factor C4 decreased
+Aspiration joint
+Device leakage
+Carbon dioxide
+Blood fibrinogen
+Vaccination site irritation
+Arteriogram carotid abnormal
+Product distribution issue
+Libido decreased
+Nocturia
+Cranial nerve disorder
+Child maltreatment syndrome
+Gene mutation identification test positive
+Myoclonic epilepsy
+Serology negative
+Arthritis reactive
+Anti-cyclic citrullinated peptide antibody
+Premature rupture of membranes
+Mean cell volume
+Serum sickness-like reaction
+Vaccination site paraesthesia
+Soft tissue swelling
+Portal vein thrombosis
+Sensory processing disorder
+Coronavirus test positive
+Glaucoma
+Iron deficiency anaemia
+Stress echocardiogram
+Multi-organ failure
+Gene mutation identification test negative
+Grimacing
+Escherichia infection
+Parasite blood test
+Biopsy skin normal
+Extubation
+Eye injury
+Basophil percentage increased
+Cardiac ablation
+Extraocular muscle paresis
+Cryptococcus test
+Tongue movement disturbance
+Biopsy muscle abnormal
+Glucose urine present
+Orthosis user
+Colposcopy
+Neck injury
+Ammonia normal
+Ear haemorrhage
+Breast cancer female
+Coronary artery dilatation
+Blood pH normal
+Ultrasound pelvis normal
+Blood creatine
+Vibratory sense increased
+Cerebral artery occlusion
+Imaging procedure abnormal
+Injection site muscle weakness
+Hypovitaminosis
+Immunoglobulins decreased
+Malabsorption
+Gene mutation identification test
+Suppressed lactation
+Hyperpyrexia
+Keloid scar
+Walking disability
+Epicondylitis
+Immunoglobulins normal
+Herpes ophthalmic
+Bundle branch block left
+Red cell distribution width
+Liver injury
+Intestinal operation
+Injection site plaque
+Product complaint
+Coronavirus test
+Vocal cord paralysis
+Sarcoidosis
+Osteoporosis
+Accident
+Sexual dysfunction
+Chromosome analysis normal
+Antineutrophil cytoplasmic antibody
+Haemophilus infection
+Oxygen saturation abnormal
+Blood pressure immeasurable
+Contraception
+Feeling of despair
+Blood 25-hydroxycholecalciferol
+Shift to the left
+Haemorrhage in pregnancy
+Autoscopy
+Intentional dose omission
+Pupils unequal
+Thrombophlebitis
+Exercise electrocardiogram
+Beta haemolytic streptococcal infection
+Acute sinusitis
+Drug screen positive
+Ear, nose and throat examination normal
+Brain scan abnormal
+Somnambulism
+Foreign travel
+Anti-cyclic citrullinated peptide antibody positive
+Urobilinogen urine decreased
+Product dose omission
+Ophthalmic migraine
+Hepatic cirrhosis
+Myocardial ischaemia
+Otitis externa
+Placental disorder
+Paresis
+Malnutrition
+Increased bronchial secretion
+Adenovirus test positive
+Inner ear disorder
+Ocular icterus
+Ischaemia
+Tonsillar inflammation
+Spinal cord disorder
+Tendon injury
+Tri-iodothyronine
+Legionella test
+Product reconstitution quality issue
+Blepharitis
+Lung neoplasm malignant
+Uterine leiomyoma
+Suicide attempt
+Connective tissue disorder
+Flat affect
+Syphilis test negative
+Hypomagnesaemia
+Vaginal ulceration
+Sensory integrative dysfunction
+Bipolar disorder
+Gastric emptying study
+Radioallergosorbent test negative
+Lymphadenectomy
+Smear test
+Blood heavy metal test
+Hepatitis C virus test
+Vaccination site infection
+Enterovirus test
+Cardiovascular examination
+Deafness transitory
+Tooth abscess
+Tongue paralysis
+Bronchoscopy
+Biopsy muscle
+Affective disorder
+Gynaecological examination
+Cardiolipin antibody negative
+Corrective lens user
+IIIrd nerve paralysis
+Injection site exfoliation
+Injection site erosion
+Mycoplasma test positive
+Escherichia test positive
+Mucosal inflammation
+Premature menopause
+Sleep study abnormal
+Hepatitis A antibody positive
+Radioallergosorbent test
+X-ray gastrointestinal tract abnormal
+Vitamin B12 increased
+Genital pain
+Purulence
+Exostosis
+Toxicity to various agents
+Ultrasound foetal abnormal
+Sitting disability
+Hypernatraemia
+Heat rash
+Medical device complication
+Fine motor delay
+Blood lead normal
+Blood amylase
+Chest tube insertion
+Pneumococcal bacteraemia
+Protein C
+Blood pressure systolic
+Granulocyte count
+Pulmonary function test abnormal
+Bilirubin conjugated
+Band neutrophil percentage increased
+Injection site pallor
+Upper limb fracture
+Enterovirus test positive
+Vaccination site discharge
+Amylase
+Liquid product physical issue
+Congenital central nervous system anomaly
+Epididymitis
+Skin atrophy
+Vascular anomaly
+Cow's milk intolerance
+Patient isolation
+Clostridium difficile colitis
+Nasal inflammation
+Meningitis bacterial
+Biopsy bone marrow normal
+Meningitis meningococcal
+Red blood cells urine negative
+Dreamy state
+Premature separation of placenta
+Drug dose omission
+Ehrlichia test
+Heparin-induced thrombocytopenia test
+Spondylitis
+Herpes virus test
+Dyschromatopsia
+Food refusal
+Monocytosis
+Exophthalmos
+Hyperkeratosis
+Electrophoresis protein normal
+Blood immunoglobulin E normal
+Angioplasty
+Foot deformity
+Occipital neuralgia
+Iron binding capacity total
+Granulocyte count increased
+Arteriogram coronary abnormal
+CD4 lymphocytes decreased
+Blood creatine phosphokinase MB normal
+Gingival erythema
+Tilt table test positive
+Impaired quality of life
+Mental fatigue
+Internal haemorrhage
+Wrong technique in device usage process
+Anuria
+Carditis
+Debridement
+Aneurysm
+Intestinal ischaemia
+Borrelia test positive
+Amino acid level
+Glucose tolerance impaired
+Culture throat positive
+Splenectomy
+Prothrombin level normal
+Electrocardiogram ST-T change
+Nasal disorder
+Central nervous system inflammation
+Amylase normal
+Troponin T normal
+Wrong patient received medication
+Cerebellar stroke
+Gastric dilatation
+Brain neoplasm
+Hypercapnia
+Coccydynia
+Biopsy liver
+Hip arthroplasty
+Blood count abnormal
+Uterine contractions during pregnancy
+Device malfunction
+Vasculitic rash
+Injection site dermatitis
+Protrusion tongue
+Skin oedema
+Optic ischaemic neuropathy
+Craniocerebral injury
+Mycobacterium tuberculosis complex test
+Herpes simplex test
+Hypoosmolar state
+Scleritis
+Enterocolitis
+Chromatopsia
+Endometriosis
+Gross motor delay
+Repetitive speech
+Haemodialysis
+Conjunctivitis infective
+Blood immunoglobulin A decreased
+Biopsy liver abnormal
+Skin wrinkling
+Facial nerve disorder
+Thyroiditis subacute
+Cytogenetic analysis abnormal
+Chillblains
+Lacunar infarction
+Heart disease congenital
+Acute myeloid leukaemia
+Pupillary disorder
+Infection parasitic
+Blood creatine increased
+Atrioventricular block first degree
+Leukoencephalomyelitis
+Genital swelling
+Basophil count increased
+Skull fracture
+CSF cell count increased
+Scan myocardial perfusion
+Vulvovaginal discomfort
+Iron binding capacity total normal
+Pregnancy test urine
+Urine output increased
+Fungal skin infection
+Ultrasound liver
+Increased viscosity of upper respiratory secretion
+Red blood cell sedimentation rate decreased
+Hyperplasia
+Ammonia increased
+Vaccinia virus infection
+Myofascitis
+CSF cell count
+Herpes simplex serology
+Barium swallow
+Tongue coated
+Intervertebral disc disorder
+Essential hypertension
+Hepatitis B virus test
+Embolic stroke
+Product name confusion
+Product use in unapproved indication
+H3N2 influenza
+Giant cell arteritis
+Vaccination site hypoaesthesia
+Cerebrovascular disorder
+Albuminuria
+Brain stem syndrome
+Retinal disorder
+Congestive cardiomyopathy
+Epigastric discomfort
+Hepatitis B antibody positive
+Aspiration bone marrow
+Ankle fracture
+CSF oligoclonal band present
+Phonophobia
+Viral skin infection
+Monocyte percentage decreased
+Gene mutation
+Urine bilirubin decreased
+Foetal hypokinesia
+Mouth breathing
+Hypoxic-ischaemic encephalopathy
+Vaccination site papule
+Renal cyst
+Colitis microscopic
+Nephritis
+Oesophageal spasm
+Cardiac valve disease
+Altered visual depth perception
+Blood aluminium increased
+Skull X-ray
+CSF neutrophil count increased
+White blood cell count abnormal
+Sputum culture
+Hepatitis B antigen positive
+Optic nerve disorder
+Gastrointestinal infection
+Reflexes abnormal
+Tri-iodothyronine normal
+Subcutaneous abscess
+Antithrombin III
+Positron emission tomogram abnormal
+Muscle mass
+Joint instability
+Sudden onset of sleep
+Parvovirus B19 test
+Bordetella test
+Mycobacterium tuberculosis complex test negative
+Vulvovaginal swelling
+Skin texture abnormal
+New daily persistent headache
+Lower respiratory tract congestion
+Peripheral artery thrombosis
+Cooling therapy
+Tetany
+Hair disorder
+Endocarditis
+Hypercalcaemia
+Infertility female
+Dermal cyst
+CSF protein
+Hyperthermia
+C-reactive protein decreased
+Eustachian tube dysfunction
+Bronchoscopy abnormal
+Diabetes mellitus inadequate control
+Orthostatic intolerance
+Virus culture negative
+Allergy to animal
+Herpes zoster disseminated
+International normalised ratio decreased
+Cervix carcinoma
+Implantable defibrillator insertion
+Blood fibrinogen normal
+External ear pain
+Arthropod sting
+Visual field tests
+Panic disorder
+Heart injury
+Prothrombin level
+Neuromyelitis optica spectrum disorder
+Dyschezia
+Major depression
+Drug exposure before pregnancy
+Suffocation feeling
+Breast discharge
+Cardiac enzymes increased
+X-ray of pelvis and hip abnormal
+Motor developmental delay
+Blood cortisol
+Eschar
+Bacterial culture negative
+Enterovirus infection
+Bloody discharge
+Palpable purpura
+Carbon dioxide abnormal
+Serum ferritin decreased
+Large for dates baby
+Lung infection
+Blood smear test abnormal
+Vaccination site haematoma
+Haemorrhage subcutaneous
+Gestational hypertension
+Lactation disorder
+Adverse event following immunisation
+Auditory disorder
+Magnetic resonance imaging thoracic
+Globulins increased
+Radial nerve palsy
+Herpes simplex serology positive
+Akinesia
+Carotid artery occlusion
+Prostatic specific antigen increased
+Amyotrophic lateral sclerosis
+Food poisoning
+Radiotherapy
+Bone marrow oedema
+Reticulocyte count
+Human herpes virus 6 serology negative
+PCO2 decreased
+Intraocular pressure test
+Carotid artery stenosis
+Gluten sensitivity
+Circumoral swelling
+Coronavirus test negative
+Transverse sinus thrombosis
+Dental caries
+Gastric ulcer
+Penis disorder
+Plantar fasciitis
+Blood testosterone decreased
+Lip ulceration
+Haemangioma
+Seborrhoeic dermatitis
+Infarction
+Angiogram pulmonary
+Occupational therapy
+Craniotomy
+Metabolic disorder
+Diastolic dysfunction
+Tooth loss
+Spinal disorder
+Visual acuity tests normal
+Sleep study normal
+Clostridium difficile toxin test
+Band neutrophil count
+Complement factor
+Lymphadenopathy mediastinal
+T-lymphocyte count decreased
+Blood bicarbonate increased
+Stress cardiomyopathy
+Wound treatment
+Bladder dysfunction
+Herpes simplex test positive
+Sexually transmitted disease test
+Glomerulonephritis
+Azotaemia
+Scleroderma
+HIV test positive
+Adrenal disorder
+Blood fibrinogen decreased
+Seborrhoea
+Post-traumatic stress disorder
+Hepatitis A virus test
+Red blood cells urine
+Hepatitis C virus
+Abortion missed
+Amino acid level normal
+Cardiac tamponade
+Bone scan normal
+DNA test for fragile X
+Encephalitis viral
+Laziness
+Ankylosing spondylitis
+Prostatic specific antigen
+Wound drainage
+Ultrasound liver normal
+Change of bowel habit
+Intercostal retraction
+HLA marker study
+Knee arthroplasty
+Sleep paralysis
+Meningococcal infection
+Breast enlargement
+Ultrasound joint
+Butterfly rash
+Amylase increased
+Renal infarct
+Human chorionic gonadotropin decreased
+Arteriosclerosis coronary artery
+Magnetic resonance imaging thoracic abnormal
+Cerebellar syndrome
+Embolism
+Lichenoid keratosis
+Hyperchloraemia
+Adrenocortical insufficiency acute
+Oesophageal pain
+Erysipelas
+Chronic sinusitis
+Cervical spinal stenosis
+Blood urea nitrogen/creatinine ratio increased
+Laparotomy
+Skin injury
+Vaginal lesion
+Cutaneous vasculitis
+Tonsillar disorder
+Effusion
+Immunosuppression
+Aortic valve incompetence
+Blood heavy metal normal
+Cataplexy
+Mesenteric vein thrombosis
+Blood prolactin normal
+Scan abnormal
+Bed sharing
+Administration site warmth
+Chest scan
+Bartonella test negative
+Mast cell activation syndrome
+Hypertensive urgency
+Respiratory acidosis
+Atrioventricular block complete
+Psychiatric evaluation
+Fasciitis
+Cystitis interstitial
+Myelopathy
+Bone densitometry
+Brain operation
+CSF protein decreased
+Cardiac enzymes
+Pneumonia streptococcal
+Volvulus
+Urine human chorionic gonadotropin negative
+Laparoscopy
+Erythema infectiosum
+Polycystic ovaries
+Low density lipoprotein
+Blood phosphorus increased
+Acute febrile neutrophilic dermatosis
+Blood gases normal
+Cardiac operation
+Mean cell haemoglobin concentration increased
+Joint hyperextension
+Laryngoscopy
+Arterial occlusive disease
+Ultrasound thyroid abnormal
+Blood triglycerides
+Coronary artery bypass
+Foot fracture
+Vein discolouration
+Oesophagogastroduodenoscopy abnormal
+Discoloured vomit
+Gingival discomfort
+Haemophagocytic lymphohistiocytosis
+Spinal stenosis
+Cerebral venous thrombosis
+Acarodermatitis
+Chronic lymphocytic leukaemia
+Tuberculin test positive
+QRS axis abnormal
+Vitamin B12 deficiency
+Poor sucking reflex
+Scoliosis
+Mean cell volume abnormal
+Anti-HBs antibody negative
+Viral pharyngitis
+Cystoscopy
+Pre-existing condition improved
+Aspartate aminotransferase decreased
+Learning disorder
+Mucosal dryness
+Distractibility
+Endoscopy upper gastrointestinal tract
+Face and mouth X-ray
+Antiacetylcholine receptor antibody
+Lagophthalmos
+Haemophilus test positive
+Capillary fragility
+Procedural pain
+Thalamic infarction
+Rubber sensitivity
+Encephalitis autoimmune
+Infantile apnoea
+Jugular vein thrombosis
+Peritonitis
+Optic atrophy
+Ketosis
+Nail disorder
+Inappropriate antidiuretic hormone secretion
+Small for dates baby
+Breast cancer
+Juvenile idiopathic arthritis
+Vaccinia
+Expressive language disorder
+Biopsy lymph gland abnormal
+Electrocardiogram repolarisation abnormality
+Mixed receptive-expressive language disorder
+Thirst decreased
+Ultrasound pelvis abnormal
+CSF monocyte count decreased
+Vulval ulceration
+Barium enema normal
+CSF pressure increased
+Acute hepatic failure
+Magnetic resonance cholangiopancreatography
+Lymphocytic infiltration
+Ammonia
+Medical induction of coma
+Administration site rash
+Thrombocytosis
+Coronary artery dissection
+Methylenetetrahydrofolate reductase gene mutation
+Coronary artery stenosis
+Selective eating disorder
+Uterine pain
+Cardiac assistance device user
+Septic screen
+Body height decreased
+Occupational exposure to SARS-CoV-2
+Coronary artery thrombosis
+Abnormal labour
+Extensor plantar response
+Skin depigmentation
+Dizziness exertional
+Tympanic membrane disorder
+Prostatomegaly
+Thyroxine increased
+Ultrasound uterus
+Aortic aneurysm
+Anal fissure
+Bilirubin conjugated normal
+Genital ulceration
+Breast cyst
+Ultrasound kidney abnormal
+Bursa injury
+Diverticulum
+Blood amylase normal
+Hearing aid user
+Right ventricular dysfunction
+Fundoscopy abnormal
+Colitis ischaemic
+Exposure during breast feeding
+Escherichia test negative
+Feeding tube user
+Epinephrine
+Left ventricular failure
+Product availability issue
+Chiropractic
+Periorbital pain
+Peripheral venous disease
+Coronavirus infection
+Convalescent plasma transfusion
+Cerebral mass effect
+Hypoproteinaemia
+Biliary colic
+Bronchiectasis
+Venous thrombosis
+Chorea
+Parkinsonism
+Hypoalbuminaemia
+Nerve block
+Visual acuity tests abnormal
+Chlamydial infection
+Palatal oedema
+Myoglobin blood increased
+Vulvovaginal mycotic infection
+Shoulder operation
+Antibody test normal
+Skeletal injury
+Spinal compression fracture
+Abscess sterile
+Hepatitis B virus test positive
+Labelled drug-drug interaction medication error
+Ultrasound skull
+Iridocyclitis
+Cervical radiculopathy
+Percutaneous coronary intervention
+Product administration interrupted
+Hepatic necrosis
+Hepatosplenomegaly
+Pyloric stenosis
+Self injurious behaviour
+Anxiety disorder
+Completed suicide
+Impulsive behaviour
+Acute coronary syndrome
+Blood immunoglobulin A increased
+Polyhydramnios
+Autoimmune thrombocytopenia
+Eye burns
+Blood pressure orthostatic
+Pertussis identification test positive
+Jaw fracture
+Oral mucosal exfoliation
+Genital lesion
+Diaphragmalgia
+Nitrite urine present
+Dermatitis psoriasiform
+Scrotal swelling
+Electrocardiogram change
+Injection site coldness
+Amniotic cavity infection
+Weight fluctuation
+Antineutrophil cytoplasmic antibody positive
+Injection site eczema
+Sudden cardiac death
+Vulvovaginal burning sensation
+Fear of death
+Aortic arteriosclerosis
+Sputum culture positive
+Blood creatine phosphokinase decreased
+Generalised vaccinia
+Apparent death
+Chlamydia test
+Gingival blister
+Organ failure
+Post viral fatigue syndrome
+Enzyme level test
+CSF red blood cell count
+Skin indentation
+Retinal migraine
+Acute left ventricular failure
+Lung assist device therapy
+Paranasal sinus inflammation
+Balance test
+Pleural disorder
+Ulcerative keratitis
+HIV infection
+Streptococcal bacteraemia
+Leukocytoclastic vasculitis
+Peripheral ischaemia
+Corneal abrasion
+Hypercoagulation
+Inflammatory bowel disease
+Antiphospholipid antibodies positive
+Positron emission tomogram normal
+Complement factor C3 decreased
+Urinary casts
+Loop electrosurgical excision procedure
+Educational problem
+Coxsackie viral infection
+Lumbar radiculopathy
+Twin pregnancy
+Soft tissue infection
+Placenta praevia
+Ultrasound skull normal
+Vascular injury
+Decreased vibratory sense
+Ear, nose and throat examination abnormal
+Nuclear magnetic resonance imaging thoracic
+Gastrointestinal motility disorder
+Clostridium difficile infection
+Splenic infarction
+Total complement activity test
+On and off phenomenon
+Agonal respiration
+Arteritis
+Myocardial fibrosis
+Blood prolactin increased
+Cachexia
+Faecaloma
+Borrelia burgdorferi serology positive
+Neurogenic bladder
+Atrioventricular block second degree
+Ketoacidosis
+Bronchitis chronic
+Echolalia
+Tympanometry
+Juvenile arthritis
+Renal function test abnormal
+Quadriparesis
+Atrial tachycardia
+Medical observation
+Dementia Alzheimer's type
+Bacterial culture
+Alpha 1 foetoprotein
+Small intestinal resection
+Enterovirus serology test negative
+Detoxification
+Spinal fusion surgery
+Breech presentation
+Reflex test normal
+Brain herniation
+Mass excision
+Stem cell transplant
+Neurological decompensation
+Capillary nail refill test abnormal
+Biopsy site unspecified abnormal
+Pharyngeal ulceration
+Psychogenic seizure
+Wound haemorrhage
+Vital functions abnormal
+Total lung capacity decreased
+Dental discomfort
+Steroid therapy
+Bacterial vaginosis
+Immature granulocyte count increased
+Arterial thrombosis
+Pancreatic disorder
+Microcytic anaemia
+Visual acuity tests
+Clostridial infection
+Vulval disorder
+Loss of proprioception
+Vocal cord disorder
+Serology normal
+Abortion threatened
+Helicobacter infection
+Mean platelet volume
+Soft tissue disorder
+Iron deficiency
+Skin hypopigmentation
+Adenovirus infection
+Salmonellosis
+Loose tooth
+Parasite stool test
+Tinea infection
+Mycobacterium test negative
+DNA antibody negative
+Throat lesion
+Cerebellar infarction
+X-ray dental
+Antiphospholipid syndrome
+Blood albumin increased
+Spirometry
+Red blood cell morphology normal
+Soft tissue inflammation
+Encephalitis post immunisation
+Analgesic drug level therapeutic
+Allergy to metals
+Madarosis
+Treatment noncompliance
+Immunohistochemistry
+Essential tremor
+Dyspraxia
+Allergy to chemicals
+Nerve stimulation test
+Infantile back arching
+Cardiac dysfunction
+Protein S
+Feeling of relaxation
+Premenstrual pain
+Pyuria
+Prostatic disorder
+Episcleritis
+Aldolase normal
+Faecal volume increased
+Blood heavy metal increased
+Pseudomonas infection
+Molluscum contagiosum
+White blood cells stool negative
+Subclavian vein thrombosis
+Abdomen scan normal
+Abdomen scan
+Mastoiditis
+Calcium ionised normal
+Hypervigilance
+Joint fluid drainage
+Femur fracture
+Robust take following exposure to vaccinia virus
+Basophil count
+Therapeutic procedure
+Thyroxine free increased
+Hypersensitivity vasculitis
+Swallow study
+Superior sagittal sinus thrombosis
+Aortic valve stenosis
+Bundle branch block
+Coombs direct test positive
+Hair colour changes
+Speech rehabilitation
+Jaundice neonatal
+Autoantibody positive
+Oesophageal disorder
+Facial neuralgia
+Bite
+CSF glucose
+Bursa disorder
+Hepatitis C
+Intestinal functional disorder
+Poor quality drug administered
+Nodule on extremity
+Oral contraception
+Prothrombin time shortened
+Frustration
+Tonsillectomy
+Psychiatric symptom
+Subdural haemorrhage
+X-ray gastrointestinal tract
+Factor V Leiden mutation
+Blood creatine normal
+Tooth extraction
+Visual field tests abnormal
+Sensation of blood flow
+Lymph gland infection
+Post procedural complication
+Sleep talking
+Vertebral foraminal stenosis
+Vaccination site pustule
+Coxsackie virus test
+Vitamin B1
+Product colour issue
+Retinal tear
+Beta-2 glycoprotein antibody
+Drug dispensed to wrong patient
+Ultrasound breast abnormal
+Hypertensive emergency
+Muscle strength abnormal
+Attention deficit hyperactivity disorder
+Oral blood blister
+Pathological fracture
+Skin cancer
+Hyperexplexia
+Illusion
+Haemolytic uraemic syndrome
+Asperger's disorder
+CSF immunoglobulin increased
+Monoparesis
+Osteopenia
+Tobacco user
+Viral myocarditis
+Melanocytic naevus
+Pneumococcal sepsis
+Physical examination abnormal
+Blood follicle stimulating hormone
+Blood homocysteine normal
+Scleral discolouration
+Combined immunodeficiency
+Tri-iodothyronine free normal
+Heart valve incompetence
+Encephalomyelitis
+Anti-GAD antibody positive
+Staphylococcus test
+Pupillary light reflex tests abnormal
+Cardiac imaging procedure
+Double stranded DNA antibody positive
+Urobilinogen urine increased
+Freezing phenomenon
+Eye colour change
+Human chorionic gonadotropin normal
+Plasma cell myeloma
+Myocardial oedema
+Vaccination site scar
+Shock symptom
+Depersonalisation/derealisation disorder
+Magnetic resonance imaging abdominal
+Magnetic resonance imaging joint
+Infant irritability
+Peripheral embolism
+Electrocardiogram PR segment depression
+Biopsy breast
+Symptom recurrence
+Acute lymphocytic leukaemia
+Cough decreased
+Scrotal pain
+Polyp
+Saliva altered
+Mitral valve prolapse
+Ventriculo-peritoneal shunt
+Reticulocyte count increased
+Guttate psoriasis
+CD4 lymphocytes
+Trigeminal nerve disorder
+Dysplasia
+Colostomy
+Red blood cell sedimentation rate abnormal
+Head lag
+Hysterectomy
+Basal ganglia infarction
+Daydreaming
+Claustrophobia
+Blood pressure systolic decreased
+Antibiotic resistant Staphylococcus test negative
+Intestinal dilatation
+Natural killer cell count
+Respiratory tract oedema
+Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection
+Complication associated with device
+Lacunar stroke
+Adrenal insufficiency
+Renal tubular necrosis
+Extrapyramidal disorder
+Chromosome abnormality
+Polymyositis
+Epiglottitis
+Oropharyngeal swelling
+Hair growth abnormal
+Lack of spontaneous speech
+Hepatitis acute
+Scarlet fever
+Tri-iodothyronine free
+Aldolase increased
+Drug intolerance
+Animal bite
+Urinary system x-ray normal
+Arnold-Chiari malformation
+Respiratory syncytial virus bronchiolitis
+Computerised tomogram coronary artery
+Hand deformity
+Retinal exudates
+Breast inflammation
+Impaired self-care
+Upper gastrointestinal haemorrhage
+Penile swelling
+Toxoplasma serology negative
+Helicobacter test
+Product packaging quantity issue
+Muscle oedema
+Giardia test negative
+Drug reaction with eosinophilia and systemic symptoms
+Inner ear inflammation
+Biopsy endometrium
+Pseudo lymphoma
+Amniocentesis
+Gamma-glutamyltransferase
+Conjunctival oedema
+Myopia
+Hyperphagia
+Gynaecomastia
+Aptyalism
+Blood homocysteine
+Ectopic pregnancy
+Menopausal symptoms
+Cataract operation
+Osteitis
+Chest injury
+Palatal disorder
+Circadian rhythm sleep disorder
+Lung hyperinflation
+Barium swallow normal
+Amniocentesis normal
+Vitamin B6 normal
+Macular oedema
+Squamous cell carcinoma
+Complement factor decreased
+Anticonvulsant drug level therapeutic
+Menstrual discomfort
+Nephropathy
+PO2 increased
+Eye operation
+Thrombolysis
+Irritability postvaccinal
+Ligament rupture
+Ligament pain
+Electrocardiogram QT interval
+Nasal discharge discolouration
+Heart sounds abnormal
+Diagnostic aspiration
+Optical coherence tomography abnormal
+Drain placement
+Embolism venous
+End stage renal disease
+Partial splenic embolisation
+Electrocardiogram ST-T segment abnormal
+Wrong patient
+Product dispensing issue
+Neurosis
+Vasospasm
+Halo vision
+Application site reaction
+Pulmonary function test decreased
+HLA marker study positive
+Latex allergy
+White blood cells stool positive
+Vaginitis bacterial
+Ventricular hypertrophy
+Transferrin saturation
+Obstruction
+Salivary gland pain
+Lymphocyte count abnormal
+Thyroxine free decreased
+Fluctuance
+Periorbital cellulitis
+Protein S normal
+Blood grouping
+Administration site reaction
+Aldolase
+Bronchial wall thickening
+Capillary nail refill test
+Whole body scan
+Biopsy lung
+Emergency care
+Pemphigus
+Sickle cell anaemia with crisis
+Glomerular filtration rate increased
+Stress echocardiogram normal
+Simplex virus test positive
+Parvovirus B19 test positive
+Logorrhoea
+Product packaging issue
+Febrile neutropenia
+Lower limb fracture
+Rubulavirus test positive
+CSF white blood cell differential
+Systolic dysfunction
+Anti-aquaporin-4 antibody negative
+Blood smear test
+Bone swelling
+Atrial enlargement
+Neoplasm skin
+Central nervous system neoplasm
+Endocrine disorder
+Anorectal disorder
+Blood iron increased
+Postpartum haemorrhage
+Phobia
+Benign intracranial hypertension
+Dyslexia
+Infantile apnoeic attack
+Colposcopy abnormal
+Ovarian cyst ruptured
+Thyroxine decreased
+Radicular pain
+Medical diet
+Biopsy lung abnormal
+Angina unstable
+Oligohydramnios
+Staphylococcal bacteraemia
+Blood pressure diastolic increased
+Hepatitis C antibody
+Gingival disorder
+Gastrointestinal surgery
+Granulocyte count decreased
+Fat necrosis
+Ileostomy
+Radioallergosorbent test positive
+Blood prolactin
+Intraventricular haemorrhage
+Hilar lymphadenopathy
+Sputum increased
+Toxic encephalopathy
+Withdrawal of life support
+Immune complex assay
+Cardiac telemetry normal
+Endoscopy gastrointestinal
+Oesophageal varices haemorrhage
+Hepatic mass
+Bursal fluid accumulation
+Cardiac imaging procedure normal
+Meniscus injury
+Blood cytokine test
+Left atrial enlargement
+Vaccination site joint movement impairment
+Excessive cerumen production
+Salmonella test negative
+Neisseria test
+Peripheral artery occlusion
+Magnetic resonance imaging thoracic normal
+Pelvic venous thrombosis
+Reflex test
+Blood loss anaemia
+Peptic ulcer
+Liver tenderness
+Tooth discolouration
+Bleeding time prolonged
+Cholangitis
+Ventricular arrhythmia
+Heat exhaustion
+Mononucleosis syndrome
+Abscess bacterial
+Toxic epidermal necrolysis
+Macular degeneration
+Tuberculosis
+Hodgkin's disease
+C-reactive protein abnormal
+CSF lymphocyte count abnormal
+Blood human chorionic gonadotropin
+Staphylococcal skin infection
+Progesterone
+Blood osmolarity normal
+Hepatitis B antibody abnormal
+Wrist fracture
+Albumin globulin ratio decreased
+Labour complication
+Behcet's syndrome
+Parainfluenzae virus infection
+Axonal neuropathy
+Muscle rupture
+Non-Hodgkin's lymphoma
+Ultrasound scan vagina abnormal
+Histology abnormal
+Decubitus ulcer
+Parasitic test
+Small intestinal intussusception reduction
+Onychoclasis
+Submaxillary gland enlargement
+Vaccination site scab
+Anti-ganglioside antibody negative
+Coma scale abnormal
+Human chorionic gonadotropin increased
+Phantom limb syndrome
+Eyelid sensory disorder
+Acute cardiac event
+Thromboembolectomy
+Catheter directed thrombolysis
+SARS-CoV-2 RNA increased
+Leukoplakia oral
+High density lipoprotein increased
+Hypochloraemia
+Akathisia
+Urinary hesitation
+Application site oedema
+Prostate cancer
+Microcephaly
+Arteriospasm coronary
+Pica
+Ephelides
+Skin candida
+Prolonged labour
+Underweight
+Inguinal hernia
+Epstein-Barr virus antigen positive
+Blood electrolytes decreased
+Morphoea
+Basal cell carcinoma
+Asthma exercise induced
+Hepatic lesion
+Spirometry normal
+Hepatic cyst
+Lumbar spinal stenosis
+Glucose tolerance test normal
+Blood follicle stimulating hormone increased
+Coagulation test abnormal
+Allergy to arthropod sting
+Hair texture abnormal
+Vitello-intestinal duct remnant
+Keratosis pilaris
+Endoscopy upper gastrointestinal tract normal
+Generalised anxiety disorder
+Hospice care
+Knee operation
+Dermatologic examination
+Transferrin saturation decreased
+HIV antibody
+Aspiration bone marrow abnormal
+Urticaria papular
+Acne cystic
+Mixed connective tissue disease
+Hallucinations, mixed
+Mycobacterium test
+Basal ganglia stroke
+Blood pH increased
+Viral titre increased
+Tryptase increased
+Oesophagogastroduodenoscopy normal
+Organic acid analysis
+Nuclear magnetic resonance imaging heart
+Implantable cardiac monitor insertion
+Postmenopause
+Reduced facial expression
+Blood testosterone
+X-ray dental normal
+Product prescribing error
+Apgar score low
+Immature granulocyte percentage increased
+Hemiparaesthesia
+Dyshidrotic eczema
+Right ventricular dilatation
+Office visit
+Collagen disorder
+Epidermal necrosis
+Calcinosis
+Temporal arteritis
+Rash scarlatiniform
+Abdominal operation
+Spinal laminectomy
+Drug dispensing error
+Necrotising retinitis
+Chromosomal analysis
+Pneumonia primary atypical
+Palmar-plantar erythrodysaesthesia syndrome
+Necrotising fasciitis
+PCO2 normal
+Tongue injury
+Ileectomy
+Intestinal anastomosis
+Band neutrophil count decreased
+Compartment syndrome
+Parenteral nutrition
+Alcohol use
+Oppositional defiant disorder
+Fundoscopy normal
+Pneumomediastinum
+Anti-thyroid antibody negative
+Gallbladder enlargement
+Brain stem stroke
+Vena cava filter insertion
+Breast induration
+Tri-iodothyronine increased
+Smear site unspecified normal
+Tubulointerstitial nephritis
+Skin bacterial infection
+Haptoglobin
+B-lymphocyte count
+Bladder discomfort
+Cardiovascular symptom
+Reaction to excipient
+Immune-mediated adverse reaction
+Behaviour disorder
+Vaccination site hypersensitivity
+Oversensing
+Aortic dissection
+Product dose omission in error
+Cholecystitis acute
+Marrow hyperplasia
+Retinitis
+Deafness permanent
+Large intestine perforation
+Blood human chorionic gonadotropin negative
+Anaemia haemolytic autoimmune
+Foetal distress syndrome
+Neonatal respiratory distress syndrome
+Retinopathy
+Capillary disorder
+Complement factor C3 increased
+Cerumen impaction
+Loss of libido
+Idiopathic urticaria
+CSF monocyte count increased
+Perivascular dermatitis
+Myofascial pain syndrome
+CD8 lymphocytes
+Blood copper normal
+Pregnancy induced hypertension
+Sandifer's syndrome
+Pityriasis
+Eustachian tube disorder
+Nasal flaring
+Winged scapula
+Fear of needles
+Brachial plexus injury
+Bone scan abnormal
+Myoglobin blood
+Anticonvulsant drug level
+Anal haemorrhage
+Urosepsis
+Labour induction
+Deformity
+Rectal tenesmus
+Oral pustule
+Electronystagmogram
+Calcium ionised decreased
+Endodontic procedure
+Cerumen removal
+H1N1 influenza
+Electrocardiogram PR interval
+Biopsy soft tissue
+Nuclear magnetic resonance imaging thoracic normal
+Typhus rickettsia test
+Enterococcus test positive
+Optic nerve injury
+Analgesic drug level
+Rubivirus test positive
+Angiogram retina
+Hepatitis B core antibody positive
+Preterm premature rupture of membranes
+Substance use
+Documented hypersensitivity to administered product
+Product leakage
+Ultrasound breast normal
+Blood pressure diastolic
+Globulins decreased
+Duodenitis
+Superinfection
+Patent ductus arteriosus
+Cerebral haematoma
+Poisoning
+Burning sensation mucosal
+Panniculitis
+Tracheitis
+Dysphoria
+CSF oligoclonal band
+Specific gravity urine increased
+Conjunctivitis allergic
+Peripheral sensorimotor neuropathy
+Cardiac telemetry abnormal
+Mycoplasma serology positive
+Myelodysplastic syndrome
+Blood mercury
+Mycoplasma serology
+Bronchial disorder
+Aortic dilatation
+Blood bicarbonate
+Genital discomfort
+Histology
+Blood testosterone normal
+Biopsy colon abnormal
+Cardiopulmonary failure
+Biopsy cervix abnormal
+Lupus-like syndrome
+Anorectal discomfort
+Aortic stenosis
+Antiacetylcholine receptor antibody positive
+Skull X-ray normal
+Nasoendoscopy
+Ultrasound bladder
+Hidradenitis
+Bronchial secretion retention
+Light chain analysis
+Haptoglobin decreased
+Allergic respiratory symptom
+Normal newborn
+Venous occlusion
+Wound closure
+Orthopoxvirus test positive
+Biopsy artery normal
+Multi-organ disorder
+Oral lichen planus
+Ventricular drainage
+Base excess decreased
+Injection site joint effusion
+IVth nerve paralysis
+Cold urticaria
+Vulvovaginal rash
+Disseminated varicella zoster vaccine virus infection
+Gastrointestinal wall thickening
+Intellectual disability
+Thyroid pain
+Tonsillar erythema
+Polypectomy
+Cortisol normal
+Oral contusion
+Product dispensing error
+Therapeutic product effect decreased
+Fasting
+Chronic left ventricular failure
+Cardiac ventricular thrombosis
+Bone marrow depression
+Polyarteritis nodosa
+Choreoathetosis
+Congenital musculoskeletal anomaly
+Hirsutism
+Sigmoidoscopy
+Eczema nummular
+Anoxia
+Tachyarrhythmia
+Carotid artery thrombosis
+Status asthmaticus
+Hypertonic bladder
+Prostatitis
+DNA antibody
+Urine output
+Clonic convulsion
+Paraparesis
+Orbital oedema
+Benign prostatic hyperplasia
+Lichen sclerosus
+Encephalomalacia
+Gallbladder operation
+Arthritis infective
+Seborrhoeic keratosis
+Viral DNA test negative
+Albumin CSF increased
+Gamma-glutamyltransferase normal
+Reticulocyte count normal
+External ear inflammation
+Peak expiratory flow rate
+Oral fungal infection
+Infection via vaccinee
+Brain stem infarction
+Leg amputation
+Biopsy brain abnormal
+Endocrine test
+Wound infection
+Mucosal discolouration
+Histamine level
+Intraocular pressure test normal
+Interleukin level
+Salmonella test positive
+Ischaemic hepatitis
+CSF immunoglobulin G index
+Nuclear magnetic resonance imaging spinal cord normal
+Mycobacterium tuberculosis complex test positive
+Spinal operation
+Venous thrombosis limb
+Beta-2 glycoprotein antibody negative
+Ophthalmic herpes simplex
+Vitamin B6
+Varicella zoster pneumonia
+Rheumatic disorder
+West Nile virus test
+Anti-aquaporin-4 antibody positive
+Administration site bruise
+Critical illness
+EGFR status assay
+Bilirubin urine present
+Basal ganglia haemorrhage
+Adverse food reaction
+Computerised tomogram coronary artery normal
+Dairy intolerance
+Arteriogram abnormal
+Cytokine storm
+Canalith repositioning procedure
+Recalled product administered
+Coagulation time
+Dyspnoea at rest
+Cardiac failure chronic
+Vaccination site dysaesthesia
+Fibrosis tendinous
+Rehabilitation therapy
+Ventricular septal defect
+Rash follicular
+Neuroblastoma
+Haemoglobin abnormal
+Micturition disorder
+Tympanometry normal
+Vasoconstriction
+Bronchoscopy normal
+CSF white blood cell count positive
+X-ray with contrast lower gastrointestinal tract
+Blood lead increased
+Intestinal malrotation
+Pericardial excision
+Blood mercury abnormal
+Biopsy breast abnormal
+Dyslipidaemia
+PO2 normal
+Viraemia
+Rotator cuff repair
+Ventilation/perfusion scan normal
+Angiotensin converting enzyme increased
+Optic neuropathy
+Cryotherapy
+Apgar score abnormal
+Alanine aminotransferase decreased
+Neuropsychological test
+Peak expiratory flow rate decreased
+Arrested labour
+Biopsy heart
+Mitochondrial cytopathy
+Face and mouth X-ray abnormal
+Facet joint syndrome
+Craniectomy
+Axillary vein thrombosis
+Spondylolisthesis
+Strawberry tongue
+Intervertebral disc space narrowing
+Escherichia urinary tract infection
+Allergic colitis
+Clavicle fracture
+Neutrophilia
+Vasogenic cerebral oedema
+Finger deformity
+Endoscopy upper gastrointestinal tract abnormal
+Burning mouth syndrome
+Blood smear test normal
+Sputum abnormal
+Skeletal survey normal
+Cold-stimulus headache
+Blood alcohol
+Tongue haemorrhage
+Skin wound
+Hemiplegic migraine
+Sudden visual loss
+Coombs direct test
+Ischaemic cerebral infarction
+Contraindicated product administered
+Vestibular migraine
+Physical deconditioning
+Refusal of vaccination
+Hand dermatitis
+Magnetic resonance imaging abdominal abnormal
+Dermal filler injection
+Aortic thrombosis
+Osteonecrosis
+Febrile infection
+Scotoma
+Asocial behaviour
+Collapse of lung
+Tetanus
+Blood cholesterol decreased
+Anisocytosis
+Derealisation
+Corneal oedema
+Prostatic specific antigen normal
+Immunoelectrophoresis
+Dacryostenosis acquired
+Bone marrow failure
+Oesophageal achalasia
+Abscess neck
+Foetal non-stress test
+Transaminases
+Genital burning sensation
+Face and mouth X-ray normal
+Urine bilirubin increased
+Compression fracture
+Hypermetropia
+Hair metal test abnormal
+Ultrasound liver abnormal
+Parvovirus B19 serology negative
+Liver transplant
+Abnormal weight gain
+Gliosis
+Spinal fracture
+Red cell distribution width decreased
+Ovarian failure
+Parasitic blood test negative
+Postictal paralysis
+Smooth muscle antibody negative
+Slit-lamp examination
+Rash maculovesicular
+Meningitis haemophilus
+Post procedural haemorrhage
+Orthostatic hypertension
+Haemodynamic instability
+Respiratory tract infection viral
+Albumin urine present
+Exercise electrocardiogram normal
+Staphylococcal sepsis
+Exploratory operation
+Blood follicle stimulating hormone normal
+Gastrointestinal oedema
+Hypoperfusion
+Vaccination site eschar
+Intranasal hypoaesthesia
+Optical coherence tomography
+Vestibular function test
+Renal injury
+Spinal cord oedema
+Coxsackie virus test negative
+Cardiolipin antibody positive
+Ulcer haemorrhage
+Endotracheal intubation complication
+Acute pulmonary oedema
+Anal pruritus
+White blood cells urine
+Hepatitis A virus test positive
+Blood pyruvic acid
+Histamine intolerance
+Pharyngeal inflammation
+Inadequate aseptic technique in use of product
+Diverticulum intestinal
+Retinogram
+Anti-neutrophil cytoplasmic antibody positive vasculitis
+Large intestine polyp
+Menometrorrhagia
+Stress fracture
+Vein rupture
+Vaccination site streaking
+Vocal cord dysfunction
+Idiopathic intracranial hypertension
+Time perception altered
+Gastrointestinal pathogen panel
+Auscultation
+Pulmonary arterial hypertension
+Multisystem inflammatory syndrome in children
+Cervix disorder
+Coagulation time prolonged
+Multiple chemical sensitivity
+Gangrene
+Scintillating scotoma
+Alcohol poisoning
+Corneal disorder
+Congenital brain damage
+Lipids increased
+Mutism
+Band neutrophil percentage decreased
+Humerus fracture
+Hair metal test
+Barium swallow abnormal
+Blood creatine decreased
+Syphilis test
+Blood thyroid stimulating hormone abnormal
+Vital capacity
+Biopsy site unspecified normal
+Erythema annulare
+High density lipoprotein
+Serology positive
+Human herpes virus 6 serology
+Pneumonia staphylococcal
+Foetal heart rate decreased
+Cerebral ventricle dilatation
+Addison's disease
+Oculorespiratory syndrome
+Cartilage injury
+Adenotonsillectomy
+Cryoglobulins absent
+Mononeuropathy
+Painful defaecation
+Blood copper
+Autoantibody negative
+Vulvovaginal dryness
+Ultrasound testes
+Vascular test
+Pancreatic carcinoma
+Drug level
+Oedema mucosal
+Gastrointestinal viral infection
+Aspiration joint normal
+Immunosuppressant drug therapy
+Fear of falling
+Cytology normal
+Menstruation normal
+Platelet count abnormal
+Nasal cavity packing
+Haptoglobin normal
+Vaccination site abscess
+T-lymphocyte count normal
+Anti-NMDA antibody negative
+Hypertensive heart disease
+Emotional poverty
+Escherichia test
+Blood ethanol
+Therapy change
+Cytopenia
+Pulmonary granuloma
+Cerebral artery stenosis
+Left ventricular dilatation
+Coating in mouth
+Intracranial mass
+Mucosal disorder
+Immunisation anxiety related reaction
+SARS-CoV-2 test false positive
+Platelet factor 4
+Alcohol intolerance
+Corneal lesion
+Malignant melanoma
+Prothrombin level increased
+Night blindness
+Drug level increased
+Ovarian disorder
+Lymphoid tissue hyperplasia
+Biopsy artery
+Astigmatism
+Histrionic personality disorder
+Schizophrenia
+Milia
+Evans syndrome
+Dupuytren's contracture
+Breast disorder female
+Bone marrow transplant
+Pelvic inflammatory disease
+Mycoplasma infection
+Hypogammaglobulinaemia
+Toxoplasma serology
+Sputum purulent
+Arachnoid cyst
+Trendelenburg position
+Bacteria stool identified
+Refusal of treatment by relative
+Urine protein, quantitative
+Urine human chorionic gonadotropin
+Neuromyopathy
+Blood zinc
+Bladder spasm
+Albumin urine
+Diabetes mellitus insulin-dependent
+Progesterone decreased
+Biopsy brain
+Herpangina
+Appendix disorder
+Fungal test positive
+Arthroscopy
+Allergy to plants
+Helicobacter pylori identification test negative
+Fibrin D dimer decreased
+Hepatitis B core antigen
+Apnoea test
+Reaction to food additive
+Platelet morphology normal
+Atonic seizures
+Fibula fracture
+Oral mucosal discolouration
+IgA nephropathy
+Diabetic neuropathy
+Immunodeficiency common variable
+Cranial nerve paralysis
+Cerebellar haemorrhage
+Oestradiol
+Blood parathyroid hormone normal
+Tongue spasm
+Laryngoscopy abnormal
+Bone marrow disorder
+Nasal ulcer
+Campylobacter test positive
+Product label issue
+Adenoidal hypertrophy
+Base excess
+Oxygen consumption
+Post concussion syndrome
+Lymphatic disorder
+Seroma
+Injection site joint inflammation
+Bandaemia
+CD4 lymphocytes normal
+CD8 lymphocytes decreased
+Chronic spontaneous urticaria
+Granulomatosis with polyangiitis
+Subchorionic haemorrhage
+Erythromelalgia
+Urine flow decreased
+Autoantibody test
+Food craving
+Hereditary neuropathy with liability to pressure palsies
+Chronic respiratory failure
+Normocytic anaemia
+Urine protein/creatinine ratio
+Anembryonic gestation
+Renal replacement therapy
+Vaccination site joint pain
+Carotid arteriosclerosis
+Numb chin syndrome
+Peripheral vein occlusion
+Troponin abnormal
+Incorrect product administration duration
+Cor pulmonale acute
+Peripheral arterial occlusive disease
+Blue toe syndrome
+Epstein-Barr virus infection reactivation
+Splenic vein thrombosis
+Vaginal candidiasis
+Balanitis
+Injection site fibrosis
+Oesophageal ulcer
+Visual evoked potentials
+Neonatal apnoeic attack
+Cutaneous lupus erythematosus
+Paronychia
+Gastrostomy tube insertion
+Sweat test normal
+Vascular graft
+Hypermobility syndrome
+Urine mercury abnormal
+Sensitivity of teeth
+Transient acantholytic dermatosis
+Rectal prolapse
+Lipoatrophy
+Brain stem auditory evoked response normal
+Blood human chorionic gonadotropin increased
+Mycotic allergy
+Klebsiella infection
+Necrotising colitis
+Neuromyelitis optica
+Alopecia universalis
+Ear irrigation
+Burns second degree
+Glycosylated haemoglobin decreased
+Soft tissue injury
+Right atrial dilatation
+Allergy to arthropod bite
+Upper motor neurone lesion
+Ear injury
+Performance status decreased
+Genital haemorrhage
+Biopsy cervix
+Blindness cortical
+Non-high-density lipoprotein cholesterol
+Rash rubelliform
+Platelet morphology abnormal
+Fontanelle depressed
+Death neonatal
+Beta globulin normal
+Cerebral artery embolism
+Bronchoalveolar lavage abnormal
+Nuclear magnetic resonance imaging thoracic abnormal
+Shock haemorrhagic
+Electrocardiogram ST segment normal
+Trichotillomania
+Ultrasound thyroid normal
+Cell marker
+Creatinine urine
+Ultrasound uterus abnormal
+Hepatitis B DNA assay negative
+Hepatic encephalopathy
+B-cell lymphoma
+Wound complication
+Toxicologic test abnormal
+CSF immunoglobulin
+Acquired diaphragmatic eventration
+Limb deformity
+Red blood cell morphology abnormal
+Large intestinal obstruction reduction
+Scan thyroid gland
+Tibia fracture
+B-lymphocyte count decreased
+Product contamination physical
+Right ventricular hypertrophy
+Ketonuria
+Renal mass
+Gastrointestinal examination
+Ear infection viral
+X-ray with contrast
+Oesophageal discomfort
+Injection site granuloma
+HLA-B*27 positive
+Coma scale
+Dehydroepiandrosterone decreased
+Negative thoughts
+Vertical infection transmission
+Respirovirus test
+Cancer surgery
+Product physical issue
+Ehlers-Danlos syndrome
+Gingival discolouration
+Ultrasound scan vagina normal
+Endometrial thickening
+Chalazion
+Escherichia bacteraemia
+Adrenal mass
+Reflux gastritis
+Endocrine ophthalmopathy
+Rheumatological examination
+Herpes zoster reactivation
+Vaccination site coldness
+SARS-CoV-1 test positive
+Thermal burns of eye
+Spider vein
+Bilirubinuria
+Adrenal haemorrhage
+Vitreous disorder
+Muscle haemorrhage
+Vascular occlusion
+Alkalosis
+Breast engorgement
+Glycosuria
+Drug dependence
+Blood thromboplastin decreased
+Cardiospasm
+Systemic lupus erythematosus rash
+Diabetes insipidus
+Oesophageal stenosis
+Tracheobronchitis
+Drug level decreased
+Cholestasis
+Myeloid leukaemia
+Sensorimotor disorder
+Renal failure chronic
+Polycythaemia
+Brain stem auditory evoked response abnormal
+Arteriovenous malformation
+DNA antibody positive
+Reflux oesophagitis
+Cytomegalovirus antibody positive
+Adjustment disorder
+Glucose urine
+Prophylaxis
+Streptococcal serology negative
+Conjunctivitis viral
+Coombs direct test negative
+HIV test false positive
+Breath sounds
+Blood zinc decreased
+Cardiac electrophysiologic study
+Umbilical cord abnormality
+Pneumonia mycoplasmal
+Genital erythema
+CSF monocyte count
+Onychomadesis
+pH body fluid
+Vaginal disorder
+Pneumocardiogram
+Methicillin-resistant staphylococcal aureus test positive
+Blood alcohol normal
+Cataract nuclear
+Trance
+Hepatitis A antibody
+Hernia repair
+Hypovolaemic shock
+Colon cancer
+Blood ketone body increased
+Eosinophilic cellulitis
+Blood ethanol normal
+Respiratory syncytial virus serology
+CSF myelin basic protein increased
+Chondrocalcinosis pyrophosphate
+Hand fracture
+Depressive symptom
+Neutrophil count abnormal
+Histiocytosis haematophagic
+Anti-islet cell antibody
+Glomerulonephritis minimal lesion
+Choroiditis
+Slit-lamp tests abnormal
+Fasciotomy
+Polychromasia
+Supportive care
+Thoracic cavity drainage
+Cyst removal
+Yersinia test negative
+Respiratory muscle weakness
+Limb operation
+Circumoral oedema
+Meningococcal sepsis
+Spinal cord injury
+Postoperative wound infection
+Labile blood pressure
+Organising pneumonia
+Soft tissue mass
+Cystoscopy normal
+Visual brightness
+Superficial vein prominence
+Exanthema subitum
+Blast cells present
+Respirovirus test positive
+Pupil dilation procedure
+Cerebral calcification
+Gingival pruritus
+Intentional product misuse
+Terminal insomnia
+Thoracic operation
+Coagulation factor
+Focal dyscognitive seizures
+Sensory overload
+Hysteroscopy
+Arteriogram
+Sedative therapy
+Tendon discomfort
+Morning sickness
+Urinary tract discomfort
+Pelvic fracture
+Foreign body in throat
+Incorrect dosage administered
+Cerebral artery thrombosis
+Herpes simplex reactivation
+Wall motion score index abnormal
+Sticky skin
+First trimester pregnancy
+Anaphylaxis prophylaxis
+Retinal oedema
+Acute leukaemia
+Buccoglossal syndrome
+Superficial injury of eye
+Oculogyration
+Bronchitis acute
+Eclampsia
+Intention tremor
+Labia enlarged
+Renal transplant
+Cardiac fibrillation
+Blood cortisol normal
+Cast application
+Mental retardation
+Insulin resistance
+Hypophosphataemia
+Pneumatosis intestinalis
+Microbiology test
+Blood pH
+Trichomoniasis
+Peripheral nerve palsy
+Overweight
+Spinal cord compression
+Cytomegalovirus antibody negative
+Electrocardiogram PR shortened
+Autonomic neuropathy
+Post inflammatory pigmentation change
+Contrast media allergy
+Actinic keratosis
+Scleral hyperaemia
+Ulnar nerve injury
+Xanthopsia
+Dysentery
+Biopsy peripheral nerve
+Scan myocardial perfusion normal
+Loss of employment
+Tri-iodothyronine decreased
+Visual tracking test abnormal
+Oxygen consumption decreased
+Alpha 2 globulin normal
+Lacrimation decreased
+Transplant rejection
+Electrocardiogram T wave amplitude decreased
+Blood pressure inadequately controlled
+Haemoglobin urine present
+Oral discharge
+Red blood cell schistocytes present
+Cytology
+Temperature difference of extremities
+Helicobacter test positive
+Human herpesvirus 6 infection
+Treponema test positive
+Laser therapy
+Chondropathy
+Penile erythema
+Cochlea implant
+Dental examination
+Coxsackie virus test positive
+Roseolovirus test positive
+Body fluid analysis
+Gastric haemorrhage
+Eye laser surgery
+Mastocytosis
+Nuclear magnetic resonance imaging abdominal
+Romberg test positive
+Ceruloplasmin
+Maternal exposure timing unspecified
+Dyspnoea paroxysmal nocturnal
+Vaccination site injury
+Light chain analysis normal
+Cholecystitis infective
+Pancreatic enzymes increased
+Eating disorder symptom
+Tonic posturing
+Sensitivity to weather change
+Sensitisation
+Skin culture
+Pain management
+Ruptured cerebral aneurysm
+Angular cheilitis
+Viral sepsis
+Gastric variceal ligation
+Intra-abdominal fluid collection
+Anaesthesia oral
+Ultrasound uterus normal
+Paraesthesia ear
+Water pollution
+Dermatochalasis
+Cognitive test
+Biopsy uterus normal
+Gastrointestinal malformation
+Sarcoma
+Trisomy 21
+Umbilical hernia
+Disease progression
+Conjunctival discolouration
+Drug effect decreased
+Gastrointestinal tract mucosal discolouration
+Nerve root lesion
+Phlebitis superficial
+Pancreatitis necrotising
+Carbuncle
+Urinary tract pain
+Anaemia macrocytic
+Drug abuser
+Haemangioma of skin
+Lipids abnormal
+Urethral pain
+Rabies
+Extracorporeal membrane oxygenation
+Dependence on respirator
+Peritonsillar abscess
+Gastrointestinal obstruction
+Blood electrolytes abnormal
+Electrophoresis protein abnormal
+Injection site calcification
+Calcium ionised
+CSF lymphocyte count
+Chorioamnionitis
+Accidental needle stick
+Floppy infant
+Oesophagram
+Virus culture positive
+Empyema
+Methicillin-resistant staphylococcal aureus test negative
+Head circumference abnormal
+Brain stem auditory evoked response
+Vascular imaging
+Eyes sunken
+Left atrial dilatation
+Cubital tunnel syndrome
+Exercise test normal
+Hydrocele
+Biopsy endometrium normal
+Intestinal mass
+Alpha 1 globulin normal
+Retinal vasculitis
+Precancerous cells present
+Eye patch application
+Babinski reflex test
+Antimitochondrial antibody normal
+Urinary system x-ray abnormal
+Body tinea
+Abdominal infection
+Thyroid cancer
+Biopsy lymph gland normal
+Rhesus antibodies positive
+CSF virus identified
+Hyperchlorhydria
+Blood osmolarity increased
+Dermatitis infected
+Galactostasis
+Product contamination
+Antibiotic resistant Staphylococcus test positive
+Spinal cord injury cervical
+Nerve stimulation test abnormal
+Product outer packaging issue
+Hepatitis B DNA assay positive
+Yellow fever vaccine-associated viscerotropic disease
+Nodal rhythm
+Thyroid stimulating immunoglobulin
+Ovulation disorder
+Injection site joint warmth
+Red blood cell microcytes present
+Seizure cluster
+Vulvovaginal erythema
+Anti-neuronal antibody
+Base excess increased
+In vitro fertilisation
+Herpes simplex encephalitis
+Nasal obstruction
+Bladder scan
+Ultrasound eye
+Dental examination normal
+Conjunctivitis bacterial
+Hand-eye coordination impaired
+Bone contusion
+Genital blister
+Cortisol increased
+Eosinophilic oesophagitis
+Nasal mucosal blistering
+Visceral pain
+Vaccination site extravasation
+Dental paraesthesia
+Childhood asthma
+Lower gastrointestinal haemorrhage
+Factor II mutation
+Right ventricular enlargement
+PO2
+Vaccination site anaesthesia
+Pulmonary artery thrombosis
+Pulmonary valve incompetence
+Galactorrhoea
+Albumin globulin ratio abnormal
+Dermographism
+Vomiting neonatal
+Sinus arrest
+Bone development abnormal
+Heparin-induced thrombocytopenia
+Thyroid neoplasm
+CSF protein abnormal
+Spinal deformity
+Nasal mucosal discolouration
+Phototherapy
+Non-consummation
+Thyroidectomy
+Diaphragmatic paralysis
+Joint sprain
+Rheumatic fever
+Coronary artery aneurysm
+Bulbar palsy
+Acute tonsillitis
+Protein total abnormal
+Virus serology test negative
+Coagulation factor V level normal
+CSF monocyte count negative
+Abdominal hernia
+Temporal lobe epilepsy
+Arthroscopic surgery
+Mediastinal mass
+Open wound
+CSF myelin basic protein normal
+Cardiac pharmacologic stress test
+Dysmorphism
+Trichorrhexis
+Ceruloplasmin normal
+Upper airway obstruction
+Passive smoking
+Delusional perception
+Dissociative disorder
+Reflex test abnormal
+Adenoidectomy
+Haematology test abnormal
+Ventilation/perfusion scan abnormal
+Pityriasis rubra pilaris
+Epidural blood patch
+Artery dissection
+CSF polymorphonuclear cell count increased
+Smooth muscle antibody positive
+Meningioma
+Red blood cell morphology
+Pelvic discomfort
+Electric shock
+CSF neutrophil count negative
+Lupus nephritis
+Product taste abnormal
+Oral infection
+Nipple swelling
+Cardiovascular function test
+Pharyngeal haemorrhage
+Biopsy colon
+Cytology abnormal
+Corynebacterium test positive
+Drop attacks
+Extraocular muscle disorder
+Infected skin ulcer
+Oophorectomy
+Cyanosis central
+Intestinal haemorrhage
+Vascular test normal
+Nerve stimulation test normal
+Post-traumatic neck syndrome
+Increased insulin requirement
+Radial pulse abnormal
+Biopsy artery abnormal
+Reticulocyte percentage normal
+Foetal non-stress test normal
+False positive investigation result
+Visual field tests normal
+Cervical vertebral fracture
+Candida test positive
+Tympanometry abnormal
+Penile pain
+Culture tissue specimen negative
+Ultrasound ovary
+Anti-transglutaminase antibody negative
+Peau d'orange
+Klebsiella test positive
+Posterior reversible encephalopathy syndrome
+Tumour marker test
+Haemorrhagic disorder
+Haemoglobin urine absent
+Anti-ganglioside antibody positive
+Genital herpes simplex
+Coma scale normal
+Administration site induration
+Russell's viper venom time
+Herpes zoster meningitis
+Joint range of motion measurement
+Swallow study abnormal
+Specific gravity urine decreased
+Stenosis
+Blood luteinising hormone
+Bile duct stone
+Injection related reaction
+Cytogenetic abnormality
+HLA-B*27 assay
+Still's disease
+Faecal calprotectin increased
+Aortic valve replacement
+Oxygen saturation increased
+Norovirus test
+Pyoderma gangrenosum
+Acute motor-sensory axonal neuropathy
+Product closure issue
+Central vision loss
+Haemorrhagic transformation stroke
+Incorrect dose administered by device
+Thunderclap headache
+Defaecation disorder
+Jaw clicking
+Therapeutic response shortened
+Haemorrhoids thrombosed
+Faecal calprotectin
+Pericardial fibrosis
+Hyperdynamic left ventricle
+Gastrointestinal tract irritation
+Antiplatelet therapy
+Vertebral artery dissection
+Steroid diabetes
+Acute abdomen
+Chronic myeloid leukaemia
+Calcium metabolism disorder
+Intentional overdose
+Adenoma benign
+Proctitis
+Blood acid phosphatase increased
+Renal tubular disorder
+Coagulation time shortened
+Corneal opacity
+Hepatic neoplasm
+Judgement impaired
+Brain neoplasm malignant
+Hypotrichosis
+Heat stroke
+Intermittent claudication
+Brain damage
+Prinzmetal angina
+Fluorescent in situ hybridisation
+Post lumbar puncture syndrome
+Spinal muscular atrophy
+Inspiratory capacity decreased
+Yellow fever
+Total cholesterol/HDL ratio normal
+Blood ketone body absent
+Seroconversion test positive
+Gluten free diet
+Conductive deafness
+Granulocytes abnormal
+Vesicoureteric reflux
+Haematospermia
+C1 esterase inhibitor test
+Blood alkaline phosphatase decreased
+Blood osmolarity
+Shoulder dystocia
+Synovial fluid analysis abnormal
+Viral pericarditis
+Complication of delivery
+Hypertrophic cardiomyopathy
+Botulism
+Pyelocaliectasis
+Coagulation factor V level
+Urodynamics measurement
+Activated protein C resistance test
+CSF bacteria no organisms observed
+Biopsy stomach normal
+Breast oedema
+Lichen striatus
+Candida nappy rash
+Blood aluminium
+Haematocrit abnormal
+Glucose tolerance test abnormal
+Staphylococcal abscess
+Blood pressure diastolic decreased
+Blister infected
+Axillary nerve injury
+Blood bilirubin unconjugated increased
+Complement factor increased
+Normochromic normocytic anaemia
+Nasal septum deviation
+Cystogram
+Iron binding capacity total decreased
+CSF pressure normal
+Viral load
+Salivary gland disorder
+Urine protein/creatinine ratio increased
+Skeletal survey
+CSF myelin basic protein
+Vitreous haemorrhage
+Eustachian tube obstruction
+Wisdom teeth removal
+Ventricular dysfunction
+pH urine
+Exposure to toxic agent
+Pupillary light reflex tests normal
+Albumin urine absent
+Haemarthrosis
+Skin neoplasm excision
+Breath sounds absent
+Bacterial sepsis
+Apallic syndrome
+Gun shot wound
+Injection site joint discomfort
+Soft tissue necrosis
+Abulia
+Itching scar
+Scleral disorder
+Chest wall mass
+Plicated tongue
+Thoracostomy
+Red blood cell nucleated morphology present
+Administration site erythema
+Paracentesis
+Defiant behaviour
+Lid sulcus deepened
+Human chorionic gonadotropin abnormal
+Computerised tomogram intestine
+Allergic reaction to excipient
+Metastatic neoplasm
+Noninfective sialoadenitis
+Expanded disability status scale score decreased
+Thyroid hormones increased
+Pancreatic failure
+Subchorionic haematoma
+Intrusive thoughts
+Therapeutic product effect incomplete
+Procedural failure
+Dysbiosis
+Subacute inflammatory demyelinating polyneuropathy
+Paranasal sinus hyposecretion
+Insulin therapy
+Sleep disorder due to a general medical condition
+Sinonasal obstruction
+Orbital swelling
+Continuous glucose monitoring
+Cerebral congestion
+SARS-CoV-2 RNA undetectable
+Prohormone brain natriuretic peptide increased
+Brain stem haemorrhage
+Loss of bladder sensation
+ADAMTS13 activity assay
+Colour blindness
+Optic neuritis retrobulbar
+Hypervolaemia
+Chorioretinitis
+Diabetic coma
+Ileitis
+Uterine disorder
+Ileus paralytic
+Maculopathy
+Conduction disorder
+Haemorrhagic diathesis
+Ovarian cancer
+Rapid eye movements sleep abnormal
+Perineal pain
+Foetal growth retardation
+Amino acid level increased
+Anaesthesia
+Biopsy liver normal
+Prealbumin
+Presbyopia
+Spinal cord injury thoracic
+Suprapubic pain
+Gastrointestinal hypomotility
+Alpha 1 foetoprotein amniotic fluid normal
+Gonorrhoea
+Joint irrigation
+CSF mononuclear cell count increased
+Emergency care examination
+Negativism
+Social phobia
+Foreign body aspiration
+Patellofemoral pain syndrome
+Sickle cell anaemia
+Chlamydia identification test negative
+Rectal examination
+Penile oedema
+Tongue geographic
+Blood parathyroid hormone increased
+Biopsy bone
+Human papilloma virus test negative
+Biopsy intestine abnormal
+Terminal state
+Serology abnormal
+Blood creatine phosphokinase abnormal
+Smear site unspecified abnormal
+Fraction of inspired oxygen
+Urobilin urine present
+Chromosome analysis abnormal
+Rhesus antibodies negative
+Urine colour abnormal
+Motor neurone disease
+Vena cava thrombosis
+Amniorrhoea
+Tongue exfoliation
+Aspiration bursa
+Subcutaneous emphysema
+Lung abscess
+Foot operation
+CSF polymorphonuclear cell count decreased
+Basilar artery thrombosis
+Stomach mass
+High risk pregnancy
+Hip surgery
+Reticulocyte count decreased
+Blood luteinising hormone normal
+Dermatologic examination abnormal
+Anhedonia
+Light chain analysis increased
+Device breakage
+Central auditory processing disorder
+Coombs test positive
+Blood oestrogen
+Blood parathyroid hormone
+Prenatal screening test abnormal
+Withdrawal syndrome
+Bladder cancer
+Onychalgia
+Crystal urine present
+CD4/CD8 ratio
+Mineral deficiency
+Massage
+Pseudomonas test positive
+White blood cells stool
+Flavivirus test positive
+Red blood cell anisocytes present
+Uterine dilation and evacuation
+Electrocardiogram QRS complex abnormal
+Allergic sinusitis
+Glomerulonephritis membranous
+Reticulocyte percentage increased
+Application site pain
+Gynaecological examination normal
+Mucosal haemorrhage
+Exercise lack of
+Renin normal
+Dehydroepiandrosterone test
+Aspiration bone marrow normal
+Splint application
+Hemianopia
+Nuclear magnetic resonance imaging spinal cord
+Ultrasound testes abnormal
+Pharyngeal mass
+Eye allergy
+Product expiration date issue
+Hepatitis B surface antibody
+Blood potassium abnormal
+Pneumothorax spontaneous
+Eyelid infection
+Arterial catheterisation
+Blood group O
+Neoplasm progression
+Human metapneumovirus test positive
+Computerised tomogram kidney abnormal
+Blood corticotrophin
+Ocular vascular disorder
+Angiotensin converting enzyme decreased
+Orthopaedic examination abnormal
+Self-injurious ideation
+Glioblastoma
+Computerised tomogram liver
+Eyelid injury
+Cyclic vomiting syndrome
+Thrombotic microangiopathy
+Intra-aortic balloon placement
+Fundus autofluorescence
+Dermatitis exfoliative generalised
+Intercepted product prescribing error
+Fluorescence angiogram abnormal
+Right atrial enlargement
+Ventricular enlargement
+White coat hypertension
+Tongue rough
+NIH stroke scale
+Spontaneous haemorrhage
+Complicated appendicitis
+Perfusion brain scan normal
+Bladder hypertrophy
+Ureterolithiasis
+Plasminogen activator inhibitor
+COVID-19 screening
+Vertebral artery stenosis
+Anovulatory cycle
+Breast discolouration
+Compression garment application
+Monoclonal antibody unconjugated therapy
+Congenital arterial malformation
+Vulvovaginal disorder
+Refraction disorder
+Hyperuricaemia
+Central nervous system stimulation
+Infertility male
+Gouty arthritis
+Dysphasia
+Monarthritis
+Depression suicidal
+IIIrd nerve paresis
+Gravitational oedema
+Varices oesophageal
+Tongue black hairy
+Alpha 1 foetoprotein increased
+Toxoplasmosis
+Nasal polyps
+Hemihypertrophy
+Pertussis identification test negative
+Reflux laryngitis
+Karyotype analysis normal
+Atopy
+Left ventricular end-diastolic pressure increased
+Intervertebral disc displacement
+Alcohol abuse
+Steatorrhoea
+Cervicobrachial syndrome
+Oral soft tissue disorder
+CD4 lymphocytes increased
+Laryngeal disorder
+Ankyloglossia congenital
+Mastectomy
+Histone antibody positive
+Head deformity
+Cystoscopy abnormal
+Pancreatic cyst
+Bacteria urine
+Lipoma excision
+Scleral haemorrhage
+Myringotomy
+Spinal myelogram
+Vascular operation
+Bronchopneumonia
+Insulin C-peptide
+Hepatitis B core antigen positive
+Hypertriglyceridaemia
+Fibrosis
+Telangiectasia
+Parvovirus B19 serology positive
+Myodesopsia
+Clostridium difficile toxin test positive
+Squamous cell carcinoma of skin
+Joint manipulation
+CSF neutrophil count
+Pulmonary artery dilatation
+Campylobacter infection
+Tarsal tunnel syndrome
+Kyphosis
+Opsoclonus myoclonus
+Blood bilirubin unconjugated normal
+Hepatitis C antibody positive
+Cardiovascular insufficiency
+Skull X-ray abnormal
+Repetitive strain injury
+Lower extremity mass
+Failed induction of labour
+Venipuncture
+Electrocardiogram QRS complex normal
+Electrocardiogram T wave normal
+Oropharyngeal plaque
+Urinary tract infection bacterial
+Endoscopic retrograde cholangiopancreatography
+Vitritis
+Muscular dystrophy
+Megacolon
+Specific gravity urine
+Renal atrophy
+Uvulitis
+Radial nerve injury
+Rash papulosquamous
+Laryngomalacia
+Blood HIV RNA below assay limit
+Electrocardiogram T wave peaked
+Enteral nutrition
+Coronary angioplasty
+Status migrainosus
+Tonsillar ulcer
+Foetal monitoring
+Anti-GAD antibody
+Diffuse large B-cell lymphoma
+Malaria antibody test negative
+HIV antigen
+Oral surgery
+Ventricular assist device insertion
+Cauda equina syndrome
+Focal segmental glomerulosclerosis
+Ileocolectomy
+Synovial fluid white blood cells positive
+Pharyngeal exudate
+Obstruction gastric
+Histamine normal
+Endocrine test normal
+Anti-ganglioside antibody
+Stress urinary incontinence
+Biopsy thyroid gland
+Vascular calcification
+Cerebral hypoperfusion
+Arthrogram
+Total cholesterol/HDL ratio
+Cautery to nose
+Faecal volume decreased
+Hepatic vein thrombosis
+Vitrectomy
+Inflammatory pain
+Radius fracture
+Retinal depigmentation
+Mucosal ulceration
+Pulmonary vascular disorder
+Patient restraint
+Vaccination site ulcer
+Carotid artery dissection
+Aspergillus test negative
+Ultrasound biliary tract normal
+Biliary dilatation
+Cardiac pacemaker evaluation
+T-lymphocyte count
+Iliotibial band syndrome
+Bilirubin conjugated decreased
+Cardiac death
+Clinically isolated syndrome
+Computerised tomogram kidney
+Abnormal clotting factor
+Joint vibration
+Endometrial ablation
+Abdominal lymphadenopathy
+Chronic pigmented purpura
+Albumin globulin ratio increased
+Chronic gastritis
+Helplessness
+Administration site inflammation
+Neuropathic muscular atrophy
+Pharyngeal abscess
+Antibiotic therapy
+Mineral supplementation
+Metapneumovirus infection
+Flavivirus test negative
+Orthopaedic examination
+Traumatic lung injury
+Decompressive craniectomy
+Macrophage count
+Oestradiol increased
+Cortical dysplasia
+Nuclear magnetic resonance imaging neck
+ACTH stimulation test abnormal
+Sweating fever
+Hyperintensity in brain deep nuclei
+Product appearance confusion
+Tissue injury
+Ophthalmic scan
+N-terminal prohormone brain natriuretic peptide normal
+Dysmetria
+Paroxysmal nocturnal haemoglobinuria
+Target skin lesion
+Splenic varices haemorrhage
+Oesophageal variceal ligation
+Pulpitis dental
+Investigation normal
+Amaurosis fugax
+Total complement activity increased
+Disseminated varicella zoster virus infection
+Scalloped tongue
+Speech sound disorder
+Thrombotic stroke
+Diaphragmatic spasm
+Injection
+Axillary lymphadenectomy
+Tissue irritation
+May-Thurner syndrome
+Illiteracy
+Urinary bladder haemorrhage
+Sinus node dysfunction
+Haemoperitoneum
+Out of specification product use
+Therapy partial responder
+Interleukin-2 receptor assay
+Aortic disorder
+Haemothorax
+Migraine without aura
+Intestinal gangrene
+Leukoderma
+Creatinine renal clearance decreased
+Lipodystrophy acquired
+Multiple congenital abnormalities
+Multiple myeloma
+Genital discharge
+Erythema migrans
+Intestinal stenosis
+Belligerence
+Fixed eruption
+Gastric ulcer haemorrhage
+Toxic shock syndrome
+Antepartum haemorrhage
+Blood creatinine abnormal
+Genitalia external painful
+Bipolar I disorder
+Pathogen resistance
+Delayed delivery
+Muscle necrosis
+Cystic fibrosis
+Venous insufficiency
+Bone density decreased
+Encopresis
+Viral cardiomyopathy
+Nasal aspiration
+Blood mercury normal
+Vital capacity normal
+Tooth repair
+Alpha 1 foetoprotein abnormal
+Vestibular function test normal
+Thyroid cyst
+Bacteria urine identified
+Ulnar nerve palsy
+Device failure
+Talipes
+Lung neoplasm
+Ovarian enlargement
+Therapeutic product ineffective
+Frostbite
+Iodine allergy
+Barrett's oesophagus
+Leukoencephalopathy
+Red blood cell analysis
+Somatosensory evoked potentials
+Blood insulin
+Enterococcal infection
+Xerosis
+Cytomegalovirus infection
+Antimicrobial susceptibility test resistant
+Tracheomalacia
+Amniotic fluid volume decreased
+Gastroenteritis salmonella
+Smallpox
+Acrochordon
+Thoracic outlet syndrome
+Babesiosis
+Sinusitis bacterial
+Blood insulin increased
+Palindromic rheumatism
+Spirometry abnormal
+Hemicephalalgia
+Stress at work
+Failed trial of labour
+Cyanopsia
+Cryoglobulinaemia
+Carnitine
+Blood homocysteine increased
+Nipple disorder
+Insulin C-peptide normal
+Anti-SS-A antibody negative
+Anti-SS-B antibody negative
+Sepsis syndrome
+Antineutrophil cytoplasmic antibody increased
+Sports injury
+Carcinoma in situ
+Rectal discharge
+Pulse pressure increased
+Naevus flammeus
+Precancerous skin lesion
+Infection susceptibility increased
+Cellulitis staphylococcal
+Biopsy stomach
+Myasthenia gravis crisis
+Periorbital haematoma
+Obsessive thoughts
+Carnitine decreased
+Acute polyneuropathy
+Microbiology test normal
+Hypertrophy of tongue papillae
+Bronchial irritation
+Tinea pedis
+Tachycardia foetal
+Diaphragmatic disorder
+Cryoglobulins present
+Bone cyst
+Gastroenteritis Escherichia coli
+Urine ketone body
+Warm type haemolytic anaemia
+Drug abuse
+Colour blindness acquired
+Irregular sleep phase
+Neutrophil toxic granulation present
+Histamine level increased
+Carpal tunnel decompression
+Burning feet syndrome
+Platelet morphology
+Embolism arterial
+Nail growth abnormal
+Delayed fontanelle closure
+Intraocular lens implant
+Lymph node abscess
+Coombs test
+Therapeutic embolisation
+Juvenile myoclonic epilepsy
+Neurodermatitis
+Creatinine urine increased
+Ventricular cisternostomy
+Ultrasound bladder normal
+Blood oestrogen increased
+Retroperitoneal lymphadenopathy
+Stress echocardiogram abnormal
+Electrocauterisation
+Enteritis infectious
+Anti-transglutaminase antibody
+Penile haemorrhage
+Central nervous system infection
+Hyperbaric oxygen therapy
+Intercepted medication error
+Pericardial haemorrhage
+Chest crushing
+Electrocardiogram Q wave abnormal
+Cancer in remission
+Splinter haemorrhages
+Coccidioidomycosis
+Blood catecholamines
+Muscle contusion
+Corynebacterium test
+Electrophoresis
+Hypoparathyroidism
+Idiosyncratic drug reaction
+Corynebacterium test negative
+Alcohol withdrawal syndrome
+Albumin CSF
+Product lot number issue
+Medial tibial stress syndrome
+Herpes zoster meningoencephalitis
+Autoinflammatory disease
+Culture tissue specimen
+Myokymia
+Ear canal erythema
+Portal hypertension
+Tri-iodothyronine free increased
+Herpes zoster cutaneous disseminated
+Coxiella test
+Gastrointestinal bacterial overgrowth
+Cerebrospinal fluid leakage
+Blood cholesterol abnormal
+Skin operation
+Caffeine consumption
+Allergic cough
+Dysacusis
+Housebound
+Retinal vascular occlusion
+Nasal crusting
+Soliloquy
+Alcohol test
+Manufacturing product shipping issue
+Aneurysm ruptured
+Chemical burn
+Total complement activity decreased
+Duodenogastric reflux
+Macular fibrosis
+Somatic symptom disorder
+Glare
+Macular hole
+NIH stroke scale abnormal
+Cytokine test
+Interleukin level increased
+Mucosal hypertrophy
+Quarantine
+Pelvic girdle pain
+Impaired reasoning
+Hemianaesthesia
+Aortic valve calcification
+Perfusion brain scan
+Exercise electrocardiogram abnormal
+Lower urinary tract symptoms
+Periorbital haemorrhage
+Vaccination site joint erythema
+Patient elopement
+Vertebral artery occlusion
+Discouragement
+Joint space narrowing
+Haemorrhoidal haemorrhage
+Anti-RNA polymerase III antibody
+Second trimester pregnancy
+Erection increased
+Abdominal abscess
+Heparin-induced thrombocytopenia test positive
+Computerised tomogram coronary artery abnormal
+Potentiating drug interaction
+Panophthalmitis
+Urethritis
+Congenital cystic kidney disease
+Basophilia
+Breast neoplasm
+Intestinal ulcer
+Pernicious anaemia
+Injection site desquamation
+Tracheal oedema
+Murder
+Haemoglobinaemia
+Hepatitis viral
+Tooth hypoplasia
+Tuberous sclerosis
+Radiation injury
+Laryngotracheal oedema
+Reiter's syndrome
+Gastrointestinal ulcer
+Simple partial seizures
+Cor pulmonale
+Malignant hypertension
+Chelation therapy
+Adrenal adenoma
+Thoracic vertebral fracture
+Insulin C-peptide decreased
+Antigliadin antibody positive
+Hepatitis C RNA increased
+Splenic rupture
+Osteosclerosis
+Gingival abscess
+Haemangioma of liver
+Positive Rombergism
+Feeling hot and cold
+Small intestinal anastomosis
+Relapsing-remitting multiple sclerosis
+Blood HIV RNA increased
+Middle ear disorder
+Beta globulin
+Vaginal odour
+Antimicrobial susceptibility test
+Blood arsenic normal
+Maternal condition affecting foetus
+Macrocephaly
+Meconium in amniotic fluid
+Blood corticotrophin normal
+Blood bilirubin abnormal
+Haemorrhagic ovarian cyst
+Blood lactate dehydrogenase decreased
+Blood luteinising hormone increased
+Radiculitis
+Visual evoked potentials normal
+Cold agglutinins negative
+Skin turgor decreased
+Virus serology test positive
+Bacillus infection
+Hepatitis B antigen
+T-lymphocyte count increased
+Spinal column stenosis
+Body mass index increased
+Developmental coordination disorder
+Costovertebral angle tenderness
+Typhoid fever
+Retinal pigment epitheliopathy
+Peripheral motor neuropathy
+House dust allergy
+Muscle abscess
+Injection site laceration
+Eosinophilic myocarditis
+Oral dysaesthesia
+Gynaecological examination abnormal
+Shoulder arthroplasty
+Hypochromasia
+Fungus CSF test negative
+Infertility
+Thermometry
+Retained placenta or membranes
+Alpha-1 anti-trypsin normal
+Alpha 1 globulin increased
+Very low density lipoprotein
+Acute generalised exanthematous pustulosis
+Biopsy muscle normal
+Sensory level abnormal
+Grip strength
+Spinal cord infarction
+Thyroiditis acute
+Paranasal cyst
+Electroconvulsive therapy
+Muscle enzyme increased
+Horner's syndrome
+Free thyroxine index normal
+Acute stress disorder
+Tinea cruris
+Respiratory tract inflammation
+Red man syndrome
+Pressure of speech
+Immunoglobulins abnormal
+Ovarian cystectomy
+Job dissatisfaction
+Acute psychosis
+Open reduction of fracture
+Gastritis erosive
+Pulmonary arterial pressure
+Aerophagia
+Biopsy bone normal
+Cryoglobulins
+Groin abscess
+Application site erythema
+Venous injury
+Vocal cord inflammation
+Abscess oral
+Lymphoproliferative disorder
+Hepatobiliary scan abnormal
+Puncture site pain
+School refusal
+Lichenification
+Blood oestrogen decreased
+Blood corticotrophin increased
+Cephalhaematoma
+Anti-NMDA antibody
+Embolic cerebral infarction
+Amylase decreased
+Liver abscess
+Enthesopathy
+Binocular eye movement disorder
+Natural killer cell count decreased
+Very low density lipoprotein normal
+Iris adhesions
+Beta-2 glycoprotein antibody positive
+Ulna fracture
+Haemorrhoid operation
+Brucella test negative
+Undifferentiated connective tissue disease
+Thyroid stimulating immunoglobulin increased
+Hypoaesthesia teeth
+Defect conduction intraventricular
+Ammonia decreased
+Vaccination site exfoliation
+Smear vaginal normal
+Vagus nerve disorder
+Renal haemorrhage
+Breast operation
+Forced expiratory volume
+Anti-NMDA antibody positive
+Angiogram peripheral abnormal
+Ligament injury
+Biopsy bone abnormal
+Neonatal hypoxia
+Periodic acid Schiff stain
+Eyelid contusion
+Anti-platelet antibody
+Gastroenteritis norovirus
+Giardia test
+Brain hypoxia
+Biopsy stomach abnormal
+Monoclonal gammopathy
+Eye symptom
+Impatience
+LDL/HDL ratio
+Infected bite
+Laryngoscopy normal
+Vasopressive therapy
+Anti-aquaporin-4 antibody
+Benign lymph node neoplasm
+Vertebral osteophyte
+Eye infection bacterial
+Systemic mastocytosis
+Feeding intolerance
+Pleurodesis
+Invasive ductal breast carcinoma
+Gastrointestinal injury
+Expanded disability status scale score increased
+Cortical visual impairment
+Burns third degree
+Device use issue
+Varicocele
+Gallbladder oedema
+Listeria test
+Urticarial vasculitis
+Lipase decreased
+Eye ulcer
+Band sensation
+Philadelphia chromosome positive
+Bleeding varicose vein
+Cystoid macular oedema
+Skin discharge
+Prohormone brain natriuretic peptide
+Eyelid skin dryness
+Procalcitonin decreased
+Stiff tongue
+Right ventricular ejection fraction decreased
+Tonsillolith
+Ischaemic cardiomyopathy
+AST/ALT ratio abnormal
+Enzyme level increased
+NIH stroke scale score increased
+Red blood cell count abnormal
+Fear of disease
+Pericarditis constrictive
+Microvascular cranial nerve palsy
+Eye infarction
+Drug-induced liver injury
+Ovarian vein thrombosis
+Peripheral vein thrombus extension
+Cardiac aneurysm
+Renal artery thrombosis
+Vitamin supplementation
+Third trimester pregnancy
+Echovirus test
+Olfactory nerve disorder
